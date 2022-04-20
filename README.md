@@ -13,6 +13,8 @@ Designer Researcher Educator, between East and West, North and South: looking fo
 
 ![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
 
+Searching for Neon Templates in Asia and Europe 2019-Present
+
 
 ## Talks
 
