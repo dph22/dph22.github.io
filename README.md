@@ -1,8 +1,8 @@
 ## Diogo Pereira Henriques / Online portfolio
 
-Designer Researcher Educator, between North and South, East and West: looking forward to global positive change! 
+Designer Researcher Educator, between East and West, North and South: looking forward to global positive change! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently in Aarhus (Denmark); previoulys in Hong Kong and Macau (SAR), Bristol (UK), Barcelona (Spain), Rome (Italy), Eindhoven (the Netherlands), and Lisbon (Portugal). Language proficiency: English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
 
 ### Markdown
 
