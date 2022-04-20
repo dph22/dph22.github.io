@@ -10,7 +10,7 @@ Designer Researcher Educator, between East and West, North and South: looking fo
 
 ## Talks
 
-[Art Entangled](https://cqn-erc.org/world-quantum-day/)
+[Art Entangled](https://cqn-erc.org/world-quantum-day/), invited (online) talk in the World Quantum Day 2022, initiated by CERN and locally co-organized by CONNECT Centre Trinity College Dublin, the University of Dublin, Faculty of Arts, Aarhus University, and Center for Quantum Networks, University of Arizona, April 14, 2022.
 
 [Creativity and Math as a Common Language](https://www.math.ksu.edu/research/artmathfiles/s22g_diogo_pereira_henriques.html), invited (online) talk in the Art and Math Seminar Spring 2022, organized by the Department of Mathematics at Kansas State University, USA, February 24, 2022.
 
