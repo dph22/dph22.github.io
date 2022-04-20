@@ -2,7 +2,7 @@
 
 Designer Researcher Educator, between East and West, North and South: looking forward to global positive change! 
 
-Currently in Aarhus (Denmark); previoulys in Hong Kong and Macau (SAR), Bristol (UK), Barcelona (Spain), Rome (Italy), Eindhoven (the Netherlands), and Lisbon (Portugal). Language proficiency: English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
+**International experience:** Currently in Aarhus (Denmark); previoulys in Hong Kong and Macau (SAR), Bristol (UK), Barcelona (Spain), Rome (Italy), Eindhoven (the Netherlands), and Lisbon (Portugal). **Language proficiency:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
 
 # Online portfolio
 
@@ -11,6 +11,9 @@ Currently in Aarhus (Denmark); previoulys in Hong Kong and Macau (SAR), Bristol 
 ## Talks
 
 [Art Entangled](https://cqn-erc.org/world-quantum-day/)
+
+[Creativity and Math as a Common Language](https://www.math.ksu.edu/research/artmathfiles/s22g_diogo_pereira_henriques.html), invited (online) talk in the Art and Math Seminar Spring 2022, organized by the Department of Mathematics at Kansas State University, USA, February 24, 2022.
+
 
 ## Publications
 
