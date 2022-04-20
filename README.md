@@ -2,7 +2,9 @@
 
 Designer Researcher Educator, between East and West, North and South: looking forward to global positive change! 
 
-**International experience:** Currently in Aarhus (Denmark); previoulys in Hong Kong and Macau (SAR), Bristol (UK), Barcelona (Spain), Rome (Italy), Eindhoven (the Netherlands), and Lisbon (Portugal). 
+**International experience:** Currently working at the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); previoulys at the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR), [University of the West of England](https://www.uwe.ac.uk) (UK), [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain), [Studio Fuksas - Rome](https://fuksas.com) (Italy), [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands), and [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
+
+
 
 **Language proficiency:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
 
