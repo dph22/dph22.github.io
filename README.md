@@ -1,10 +1,10 @@
-## Diogo Pereira Henriques / Online portfolio
+## Diogo Pereira Henriques 
 
 Designer Researcher Educator, between East and West, North and South: looking forward to global positive change! 
 
 Currently in Aarhus (Denmark); previoulys in Hong Kong and Macau (SAR), Bristol (UK), Barcelona (Spain), Rome (Italy), Eindhoven (the Netherlands), and Lisbon (Portugal). Language proficiency: English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
 
-### Markdown
+### Online portfolio
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
