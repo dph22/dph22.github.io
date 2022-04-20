@@ -9,7 +9,7 @@ Designer Researcher Educator, between East and West, North and South: looking fo
 **Language proficiency:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
 
 
-## Projects
+## Selected Projects
 
 ![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
 
@@ -32,7 +32,7 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 
 
-## Publications
+## Key Publications
 
 
 
