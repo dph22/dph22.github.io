@@ -9,7 +9,7 @@ Designer Researcher Educator, between East and West, North and South: looking fo
 
 ## Projects
 
-[Image](Website_Project01.jpg)
+[Searching for Neon Templates in Asia and Europe](Website_Project01.jpg)
 
 ## Talks
 
