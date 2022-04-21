@@ -45,6 +45,7 @@ Interactive tram with data visualization with Jose Adriao architects 2008
 ![Image]
 Josep Mias Architects 2007
 
+[...]
 
 ## Recent Webinars / Talks 
 
