@@ -66,7 +66,7 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 ## Key Publications
 
-Henriques, D.P., and Park, S. Y. (accepted/under publication) “Playful experiences in the (post-) pandemic city: HCI, arts, and urban environments”, to be published in _HCI in Games Third International Conference, HCI-Games 2022 Held as Part of the 24th HCI International Conference, HCII 2022 Gothenburg, Sweden, 26 June - 1 July 2022, Proceedings_. Cham: Springer, 12 pages.
+Henriques, D.P., and Park, S. Y. (accepted) “Playful experiences in the (post-) pandemic city: HCI, arts, and urban environments”, to be published in _HCI in Games Third International Conference, HCI-Games 2022 Held as Part of the 24th HCI International Conference, HCII 2022 Gothenburg, Sweden, 26 June - 1 July 2022, Proceedings_. Cham: Springer, 12 pages.
 
 Rodgers, P.A., Innella, G., Bremner, C., Coxon, I., Cadamuro, A., Carleklev, S., Chan, K., Dilnot, C., Fathers, J., Fennell, J., Fremantle, C., French, T., Henriques, D.P., Jones, P.L., Kettley, R., Kettley, S., Khan, M., Logge, K., Archer-Martin, J., Pulley, R., Shahar, D., Tewari, S., Treadaway, C., Tsekleves, E., Valadkeshyaei, H.M., Ventura, J., Wiltse, H. and Winton, E. (2019) “The Lancaster Care Charter”, _Design Issues_, 35 (1), Winter 2019, pp. 73-77. [Available online](https://doi.org/10.1162/desi_a_00522).
 
