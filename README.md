@@ -17,13 +17,15 @@ Searching for Neon Templates in Asia and Europe, 2019-Present
 
 This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybride templates of neon lighting with postcolonial visions. Submitted to be presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), in Mexico.
 
-![Image]
+![Website_project02](https://user-images.githubusercontent.com/51691883/164502863-18a87a4c-ea1e-470c-89e0-338b7eaa1e1e.jpg)
+
 Augmenting Photography with Digital Tools, 2019-Present
 
 ![Image]
 Increasing the online presence of the Nexus Network Journal 2019--Present
 
-![Image]
+![Website_project03](https://user-images.githubusercontent.com/51691883/164502959-8a1cb6f8-b1eb-4bd8-a602-3bc643a3124d.jpg)
+
 Future Architecture Fellowship, 2021
 
 ![Image]
