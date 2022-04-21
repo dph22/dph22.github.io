@@ -14,9 +14,33 @@ Designer Researcher Educator, between East and West, North and South: looking fo
 
 ![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
 
-Searching for Neon Templates in Asia and Europe 2019-Present
+1. Searching for Neon Templates in Asia and Europe, 2019-Present
 
 This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybridity templates of neon lighting with postcolonial visions. Submitted to be presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), in Mexico.
+
+2. Searching for Neon Templates in Asia and Europe, 2019-Present
+
+
+3. Augmenting Photography with Digital Tools, 2019--Present
+
+
+4. Increasing the online presence of the Nexus Network Journal 2019--Present
+
+
+5. Future Architecture Fellowship, 2021
+
+6. UK Government Office for Science / Future of Cities Foresight Project 
+
+7. Interactive prototype (as research assistant at the University of Lisbon), 2012-1013 
+
+Interactive prototype (3D modelling sequence matrix and application developed in Java programming language) for the collective exhibition 'Forms & Formulas' at Lisbon's National Museum of Natural History and Science, Portugal
+
+8. Models workshop Fuksas Studio 2009-2010
+
+9. Interactive tram with data visualization with Jose Adriao architects 2008
+
+10. Josep Mias Architects 2007
+
 
 
 ## Recent Webinars / Talks 
