@@ -29,15 +29,20 @@ This ongoing project examines how the creation and development of neon lighting 
 
 5. Future Architecture Fellowship, 2021
 
+
 6. UK Government Office for Science / Future of Cities Foresight Project 
+
 
 7. Interactive prototype (as research assistant at the University of Lisbon), 2012-1013 
 
 Interactive prototype (3D modelling sequence matrix and application developed in Java programming language) for the collective exhibition 'Forms & Formulas' at Lisbon's National Museum of Natural History and Science, Portugal
 
+
 8. Models workshop Fuksas Studio 2009-2010
 
+
 9. Interactive tram with data visualization with Jose Adriao architects 2008
+
 
 10. Josep Mias Architects 2007
 
@@ -69,5 +74,6 @@ Henriques, D.P. (2017) “Emerging patterns of change for tomorrow’s cities”
 
 Henriques, D.P. (2013) “Space time information on display: smart devices and spatial cognition”, in H. Bartolo et al. (eds) _Green Design, Materials and Manufacturing Processes_. London: CRC Press / Taylor & Francis Group, pp. 519-523. ISBN: 9781138000469. [Available online](https://www.taylorfrancis.com/books/mono/10.1201/b15002/green-design-materials-manufacturing-processes-michael-tomlinson-john-woodward)
 
-More publicatiosns on Scholar [More publications on Scholar](https://scholar.google.com/citations?user=ZaERkbEAAAAJ&hl=en)
+
+Read more publications on [Scholar](https://scholar.google.com/citations?user=ZaERkbEAAAAJ&hl=en)
 
