@@ -9,18 +9,18 @@ Designer Researcher Educator, between East and West, North and South: looking fo
 **Language proficiency:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
 
 
-## Selected Projects
+## Projects
 
 ![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
 
 Searching for Neon Templates in Asia and Europe 2019-Present
 
 
-## Talks
+## Webinars / Talks 
 
 ### 2022
 
-[Art Entangled](https://cqn-erc.org/world-quantum-day/), invited (online) talk in the World Quantum Day 2022, initiated by CERN and locally co-organized by CONNECT Centre Trinity College Dublin, the University of Dublin, Ireland, Faculty of Arts, Aarhus University, Denmark, and Center for Quantum Networks, University of Arizona, USA, April 14, 2022.
+[Art Entangled](https://cqn-erc.org/world-quantum-day/), invited panelist in a webinar in the World Quantum Day 2022, initiated by CERN and locally co-organized by CONNECT Centre Trinity College Dublin, the University of Dublin, Ireland, Faculty of Arts, Aarhus University, Denmark, and Center for Quantum Networks, University of Arizona, USA, April 14, 2022.
 
 [Creativity and Math as a Common Language](https://www.math.ksu.edu/research/artmathfiles/s22g_diogo_pereira_henriques.html), invited (online) talk in the Art and Math Seminar Spring 2022, organized by the Department of Mathematics at Kansas State University, USA, February 24, 2022.
 
@@ -34,7 +34,10 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 ## Key Publications
 
+Henriques, D.P., and Park, S. Y. (accepted/under publication) “Playful experiences in the (post-) pandemic city: HCI, arts, and urban environments”, to be published in HCI in Games Third International Conference, HCI-Games 2022 Held as Part of the 24th HCI International Conference, HCII 2022 Gothenburg, Sweden, 26 June - 1 July 2022, Proceedings. Cham: Springer, 12 pages.
 
+Rodgers, P.A., Innella, G., Bremner, C., Coxon, I., Cadamuro, A., Carleklev, S., Chan, K., Dilnot, C., Fathers, J., Fennell, J., Fremantle, C., French, T., Henriques, D.P., Jones, P.L., Kettley, R., Kettley, S., Khan, M., Logge, K., Archer-Martin, J., Pulley, R., Shahar, D., Tewari, S., Treadaway, C., Tsekleves, E., Valadkeshyaei, H.M., Ventura, J., Wiltse, H. and Winton, E. (2019) “The Lancaster Care Charter”, Design Issues, 35 (1), Winter 2019, pp. 73-77. Available online: https://doi.org/10.1162/desi_a_00522
 
+Henriques, D.P. (2017) “Emerging patterns of change for tomorrow’s cities”, in M. Costa, F. Roseta, J. Lages and S. Costa (eds) Architectural Research Addressing Societal Challenges: Proceedings of the 10th EAAE ARCC International Conference, Lisbon, Portugal, 15-18 June 2016. London: CRC Press / Taylor & Francis Group, Vol. 01, pp. 27-32. ISBN: 9781138029668.
 
-
+Henriques, D.P. (2013) “Space time information on display: smart devices and spatial cognition”, in H. Bartolo et al. (eds) Green Design, Materials and Manufacturing Processes. London: CRC Press / Taylor & Francis Group, pp. 519-523. ISBN: 9781138000469.
