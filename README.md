@@ -62,6 +62,8 @@ Josep Mias Architects 2007
 
 KAF is dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Programme and co-funded by the Creative Europe Programme of the European Union [Creative Europe Programme of the European Union](https://culture.ec.europa.eu/creative-europe).
 
+[...]
+
 ## Key Publications
 
 Henriques, D.P., and Park, S. Y. (accepted/under publication) “Playful experiences in the (post-) pandemic city: HCI, arts, and urban environments”, to be published in _HCI in Games Third International Conference, HCI-Games 2022 Held as Part of the 24th HCI International Conference, HCII 2022 Gothenburg, Sweden, 26 June - 1 July 2022, Proceedings_. Cham: Springer, 12 pages.
