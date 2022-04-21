@@ -16,6 +16,8 @@ Designer Researcher Educator, between East and West, North and South: looking fo
 
 Searching for Neon Templates in Asia and Europe 2019-Present
 
+This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybridity templates of neon lighting with postcolonial visions. Submitted to be presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), in Mexico.
+
 
 ## Recent Webinars / Talks 
 
@@ -42,3 +44,6 @@ Rodgers, P.A., Innella, G., Bremner, C., Coxon, I., Cadamuro, A., Carleklev, S.,
 Henriques, D.P. (2017) “Emerging patterns of change for tomorrow’s cities”, in M. Costa, F. Roseta, J. Lages and S. Costa (eds) _Architectural Research Addressing Societal Challenges: Proceedings of the 10th EAAE ARCC International Conference, Lisbon, Portugal, 15-18 June 2016_. London: CRC Press / Taylor & Francis Group, Vol. 01, pp. 27-32. ISBN: 9781138029668. [Available online](https://www.taylorfrancis.com/books/edit/10.1201/9781315116068/architectural-research-addressing-societal-challenges-manuel-couceiro-da-costa-filipa-roseta-joana-pestana-lages-susana-couceiro-da-costa)
 
 Henriques, D.P. (2013) “Space time information on display: smart devices and spatial cognition”, in H. Bartolo et al. (eds) _Green Design, Materials and Manufacturing Processes_. London: CRC Press / Taylor & Francis Group, pp. 519-523. ISBN: 9781138000469. [Available online](https://www.taylorfrancis.com/books/mono/10.1201/b15002/green-design-materials-manufacturing-processes-michael-tomlinson-john-woodward)
+
+More publicatiosns on Scholar [More publications on Scholar](https://scholar.google.com/citations?user=ZaERkbEAAAAJ&hl=en)
+
