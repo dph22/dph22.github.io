@@ -7,8 +7,7 @@ Designer Researcher Educator, between East and West, North and South: looking fo
 
 **Programming:** Processing, Python, Java, C+ (Basic proficiency)
 
-**Language(s):** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
-
+**Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
 
 
 ## Selected Projects
@@ -16,7 +15,6 @@ Designer Researcher Educator, between East and West, North and South: looking fo
 ![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
 
 Searching for Neon Templates in Asia and Europe 2019-Present
-
 
 
 ## Recent Webinars / Talks 
@@ -33,7 +31,6 @@ Searching for Neon Templates in Asia and Europe 2019-Present
 [Participation, Participation, Participation](https://kosovoarchitecture.com/diogo-pereira-henriques/), invited (online) talk in the Kosovo Architecture Festival (KAF) 2021, organized under the theme of Alter-Nation by the Kosovo Architecture Foundation in partnership with the Future Architecture Platform, held online in September 28, 2021. 
 
 KAF is dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Programme and co-funded by the Creative Europe Programme of the European Union [Creative Europe Programme of the European Union](https://culture.ec.europa.eu/creative-europe).
-
 
 
 ## Key Publications
