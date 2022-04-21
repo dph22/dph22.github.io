@@ -5,19 +5,21 @@ Designer Researcher Educator, between East and West, North and South: looking fo
 **International experience:** Currently working at the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); previoulys at the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR), [University of the West of England](https://www.uwe.ac.uk) (UK), [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain), [Studio Fuksas - Rome](https://fuksas.com) (Italy), [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands), and [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
 
 
+**Programming:** Processing, Python, Java, C+ (Basic proficiency)
 
 **Language(s):** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
 
-**Programming:** Processing, Python, Java, C+ (Basic proficiency)
 
-## Projects
+
+## Selected Projects
 
 ![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
 
 Searching for Neon Templates in Asia and Europe 2019-Present
 
 
-## Webinars / Talks 
+
+## Recent Webinars / Talks 
 
 ### 2022
 
