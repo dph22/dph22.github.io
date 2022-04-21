@@ -24,6 +24,7 @@ Searching for Neon Templates in Asia and Europe 2019-Present
 
 [Creativity and Math as a Common Language](https://www.math.ksu.edu/research/artmathfiles/s22g_diogo_pereira_henriques.html), invited (online) talk in the Art and Math Seminar Spring 2022, organized by the Department of Mathematics at Kansas State University, USA, February 24, 2022.
 
+
 ### 2021
 
 [Participation, Participation, Participation](https://kosovoarchitecture.com/diogo-pereira-henriques/), invited (online) talk in the Kosovo Architecture Festival (KAF) 2021, organized under the theme of Alter-Nation by the Kosovo Architecture Foundation in partnership with the Future Architecture Platform, held online in September 28, 2021. 
