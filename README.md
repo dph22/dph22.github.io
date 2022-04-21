@@ -1,6 +1,6 @@
-## Hi, I'm Diogo Pereira Henriques, and here you can see my online portfolio and some info about me. 
+## Hi, here you can see my online portfolio and some info about me. 
 
-I'm a designer, researcher, educator, and learner; between East and West, North and South: always looking forward to global positive change! 
+My name is Diogo Pereira Henriques, and I'm a designer, researcher, educator, and learner; between East and West, North and South: always looking forward to global positive change! 
 
 **International experience:** Currently working at the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); previoulys at the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR), [University of the West of England](https://www.uwe.ac.uk) (UK), [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain), [Studio Fuksas - Rome](https://fuksas.com) (Italy), [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands), and [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
 
