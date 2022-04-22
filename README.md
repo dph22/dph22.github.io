@@ -15,7 +15,7 @@
 
 Searching for Neon Templates in Asia and Europe, 2019-Present
 
-This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybride templates of neon lighting with postcolonial visions. Submitted to be presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), in Mexico.
+This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybrid templates of neon lighting with postcolonial visions. Submitted to be presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), in Mexico.
 
 [...]
 
