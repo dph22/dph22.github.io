@@ -17,35 +17,54 @@ Searching for Neon Templates in Asia and Europe, 2019-Present
 
 This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybride templates of neon lighting with postcolonial visions. Submitted to be presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), in Mexico.
 
+[...]
+
+
 ![Website_project02](https://user-images.githubusercontent.com/51691883/164502863-18a87a4c-ea1e-470c-89e0-338b7eaa1e1e.jpg)
 
 Augmenting Photography with Digital Tools, 2019-Present
 
-![Image]
-Increasing the online presence of the Nexus Network Journal 2019--Present
+[...]
+
 
 ![Website_project03](https://user-images.githubusercontent.com/51691883/164502959-8a1cb6f8-b1eb-4bd8-a602-3bc643a3124d.jpg)
 
-Future Architecture Fellowship, 2021
+Afro-Futures, Future Architecture Fellowship, 2021
 
-![Image]
-UK Government Office for Science / Future of Cities Foresight Project 
+[...]
 
-![Image]
-Interactive prototype (as research assistant at the University of Lisbon), 2012-1013 
+
+Increasing online presence, Nexus Network Journal, 2019--Present
+
+[...]
+
+
+Visualising Futures, UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016
+
+[...]
+
+
+Interactive visualizer, University of Lisbon, Portugal, 2012-1013 
 
 Interactive prototype (3D modelling sequence matrix and application developed in Java programming language) for the collective exhibition 'Forms & Formulas' at Lisbon's National Museum of Natural History and Science, Portugal
 
-![Image]
-Models workshop Fuksas Studio 2009-2010
+[...]
 
-![Image]
-Interactive tram with data visualization with Jose Adriao architects 2008
 
-![Image]
-Josep Mias Architects 2007
+Models workshop, Fuksas Studio Rome, Italy, 2009-2010
 
 [...]
+
+
+Interactive tram with data visualization, Jose Adriao architects, Lisbon, Portugal 2008
+
+[...]
+
+
+Models workshop, Josep Mias Architects, Barcelona, Spain 2007
+
+[...]
+
 
 ## Recent Webinars / Talks 
 
@@ -63,6 +82,7 @@ Josep Mias Architects 2007
 KAF is dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Programme and co-funded by the Creative Europe Programme of the European Union [Creative Europe Programme of the European Union](https://culture.ec.europa.eu/creative-europe).
 
 [...]
+
 
 ## Key Publications
 
