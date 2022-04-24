@@ -13,7 +13,7 @@
 
 ![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
 
-Searching for Neon Templates in Asia and Europe, 2019-Present
+**Searching for Neon Templates in Asia and Europe, 2019-Present**
 
 This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybrid templates of neon lighting with postcolonial visions. Submitted to be presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), in Mexico.
 
@@ -22,46 +22,46 @@ This ongoing project examines how the creation and development of neon lighting 
 
 ![Website_project02](https://user-images.githubusercontent.com/51691883/164502863-18a87a4c-ea1e-470c-89e0-338b7eaa1e1e.jpg)
 
-Augmenting Photography with Digital Tools, 2019-Present
+**Augmenting Photography with Digital Tools, 2019-Present**
 
 [...]
 
 
 ![Website_project03](https://user-images.githubusercontent.com/51691883/164502959-8a1cb6f8-b1eb-4bd8-a602-3bc643a3124d.jpg)
 
-Afro-Futures, Future Architecture Fellowship, 2021
+**Afro-Futures, Future Architecture Fellowship, 2021**
 
 [...]
 
 
-Increasing online presence, Nexus Network Journal, 2019--Present
+**Increasing online presence, Nexus Network Journal, 2019-Present**
 
 [...]
 
 
-Visualising Futures, UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016
+**Visualising Futures, UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016**
 
 [...]
 
 
-Interactive visualizer, University of Lisbon, Portugal, 2012-1013 
+**Interactive visualizer, National Museum of Natural History and Science, Lisbon, Portugal, 2012-1013** 
 
-Interactive prototype (3D modelling sequence matrix and application developed in Java programming language) for the collective exhibition 'Forms & Formulas' at Lisbon's National Museum of Natural History and Science, Portugal
-
-[...]
-
-
-Models workshop, Fuksas Studio Rome, Italy, 2009-2010
+Interactive prototype (3D modelling sequence matrix and application developed in Java programming language) for the collective exhibition 'Forms & Formulas' at Lisbon's National Museum of Natural History and Science, University of Lisbon.
 
 [...]
 
 
-Interactive tram with data visualization, Jose Adriao architects, Lisbon, Portugal 2008
+**Models workshop, Fuksas Studio Rome, Italy, 2009-2010**
 
 [...]
 
 
-Models workshop, Josep Mias Architects, Barcelona, Spain 2007
+**Interactive tram with data visualization, Jose Adriao architects, Lisbon, Portugal 2008**
+
+[...]
+
+
+**Models workshop, Josep Mias Architects, Barcelona, Spain 2007**
 
 [...]
 
