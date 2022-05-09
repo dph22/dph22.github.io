@@ -46,8 +46,6 @@ This ongoing project examines how the creation and development of neon lighting 
 
 **Interactive visualizer, National Museum of Natural History and Science, Lisbon, Portugal, 2012-1013** 
 
-Interactive prototype (3D modelling sequence matrix and application developed in Java programming language) for the collective exhibition 'Forms & Formulas' at Lisbon's National Museum of Natural History and Science, University of Lisbon.
-
 [...]
 
 
