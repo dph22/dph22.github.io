@@ -38,7 +38,7 @@ Selected to participate in the [Creative Exchange 2021 Landscapes of Care](https
 
 **Nexus Network Journal, social media and new website, 2019-Present**
 
-Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been: (a) Q1 in Visual Arts by Scimago; (b) Recognized for Editorial Excellence by Springer Nature; and (c) Number 2 in the Springer Math journals catalogue, for downloads in 2020. Since 2019, I am social media editor and member of the editorial board, and now designing the website for the forthcoming 'Nexus: Architecture and Mathematics International Conference 2023', while developing a strategy for the new reality of hybrid conferences.
+Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been: (a) Q1 in Visual Arts by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) Recognized for Editorial Excellence by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) Number 2 in the Springer Math journals catalogue, for downloads in 2020. Since 2019, I am social media editor and member of the editorial board, and now designing the new website for the forthcoming 'Nexus: Architecture and Mathematics International Conference 2023', while developing a strategy for the new reality of hybrid conferences.
 
 [...]
 
