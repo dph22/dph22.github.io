@@ -31,6 +31,8 @@ This ongoing project examines how the creation and development of neon lighting 
 
 **Afro-Futures, Future Architecture Fellowship, 2021**
 
+Selected to participate in the '2021 Creative Exchange: Landscapes of Care', one of the first major events dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Programme and co-funded by the Creative Europe Programme of the European Union. Recently featured in the [Future Architecture book](https://futurearchitectureplatform.org/journal/69/future-architecture-book-out-now/), published by MAO Museum of Architecture and Design, Ljubljana 2021, and also financed by the European Union. 
+
 [...]
 
 
