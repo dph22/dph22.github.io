@@ -20,6 +20,15 @@ This ongoing project examines how the creation and development of neon lighting 
 [...]
 
 
+![Website_project03](https://user-images.githubusercontent.com/51691883/164502959-8a1cb6f8-b1eb-4bd8-a602-3bc643a3124d.jpg)
+
+**Afro-Futures, Future Architecture Fellowship, 2021-Present**
+
+Selected to participate in the [Creative Exchange 2021 Landscapes of Care](https://futurearchitectureplatform.org/programme/152/creative-exchange-2021-landscapes-of-care/), one of the first major events dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Programme and co-funded by the Creative Europe Programme of the European Union. Recently featured in the [Future Architecture book](https://futurearchitectureplatform.org/journal/69/future-architecture-book-out-now/), published by MAO Museum of Architecture and Design, Ljubljana 2021, and also financed by the European Union. 
+
+[...]
+
+
 ![Website_project02](https://user-images.githubusercontent.com/51691883/164502863-18a87a4c-ea1e-470c-89e0-338b7eaa1e1e.jpg)
 
 **Augmenting Photography with Digital Tools, 2019-Present**
@@ -27,16 +36,7 @@ This ongoing project examines how the creation and development of neon lighting 
 [...]
 
 
-![Website_project03](https://user-images.githubusercontent.com/51691883/164502959-8a1cb6f8-b1eb-4bd8-a602-3bc643a3124d.jpg)
-
-**Afro-Futures, Future Architecture Fellowship, 2021**
-
-Selected to participate in the [Creative Exchange 2021 Landscapes of Care](https://futurearchitectureplatform.org/programme/152/creative-exchange-2021-landscapes-of-care/), one of the first major events dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Programme and co-funded by the Creative Europe Programme of the European Union. Recently featured in the [Future Architecture book](https://futurearchitectureplatform.org/journal/69/future-architecture-book-out-now/), published by MAO Museum of Architecture and Design, Ljubljana 2021, and also financed by the European Union. 
-
-[...]
-
-
-**Increasing online presence, Nexus Network Journal, 2019-Present**
+**Increasing online presence and new website, Nexus Network Journal, 2019-Present**
 
 [...]
 
