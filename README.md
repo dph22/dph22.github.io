@@ -42,6 +42,7 @@ Published in print by Birkhäuser and online at [Springer](https://www.springer.
 
 [...]
 
+<img width="1439" alt="Website_Project05" src="https://user-images.githubusercontent.com/51691883/167877170-63fdc409-f55d-4008-9393-8c3dbbb7e3a2.png">
 
 **Visualising Futures, UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016**
 
