@@ -33,6 +33,8 @@ Selected to participate in the [Creative Exchange 2021 Landscapes of Care](https
 
 **Augmenting Photography with Digital Tools, 2019-Present**
 
+This ongoing project creatively explores how advances in machine learning and AI can influence photography, particularly elusive effects as night light and snow, lensflares, articial light, etc.  
+
 [...]
 
 
