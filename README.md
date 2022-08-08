@@ -25,6 +25,8 @@ Experimental and collaborative project with data scientists Carlos Vivar Ríos (
 
 **3D Media Objects: Augmented reality on Aarhus University campus, Aarhus, Denmark, 2022-Present**
 
+This ongoing project creatively explores how advances in augmented reality (AR) can change the experience of news and media on the campus of the Aarhus University, for students, staff, and visitors. 
+
 [...]
 
 
