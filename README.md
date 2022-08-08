@@ -66,9 +66,9 @@ Published in print by Birkhäuser and online at [Springer](https://www.springer.
 
 <img width="1439" alt="Website_Project05" src="https://user-images.githubusercontent.com/51691883/167877170-63fdc409-f55d-4008-9393-8c3dbbb7e3a2.png">
 
-**Visualising Futures, UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016**
+**Visualizing Futures, UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016**
 
-At the Faculty of Engineering, Northumbria University, I worked as a senior research assistant , winning a research grant to develop [future scenario visualisations](https://www.gov.uk/government/publications/future-of-cities-visualising-the-future-of-newcastle) to support knowledge exchange and public engagement activities, with a team of 2 colleagues for this research project, commissioned by the UK Government Office for Science and Future of Cities Foresight Project. 
+At the Faculty of Engineering, Northumbria University, I worked as a senior research assistant , winning a research grant to develop [future scenario visualizations](https://www.gov.uk/government/publications/future-of-cities-visualising-the-future-of-newcastle) to support knowledge exchange and public engagement activities, with a team of 2 colleagues for this research project, commissioned by the UK Government Office for Science and Future of Cities Foresight Project. 
 
 [...]
 
