@@ -19,6 +19,12 @@ To be presented at the [CERN Webfest 2022](https://home.cern/news/announcement/c
 
 [...]
 
+**3D Media Objects: Augmented reality on Aarhus University campus, Aarhus, Denmark, 2022-Present**
+
+![AarhusUniversity_campus_view](https://user-images.githubusercontent.com/51691883/183378323-ddc0594e-eddd-4528-8e4a-bc95e7a1a575.jpeg)
+
+[...]
+
 
 ![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
 
