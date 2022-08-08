@@ -11,6 +11,13 @@
 
 ## Selected Projects
 
+**CERN Webfest: Next-generation data visualization, 2022-Present**
+
+To be presented at the [CERN Webfest 2022](https://home.cern/news/announcement/computing/take-part-climate-action-through-cerns-online-webfest-challenge-2022), online.
+
+[...]
+
+
 ![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
 
 **Searching for Neon Templates in Asia and Europe, 2019-Present**
