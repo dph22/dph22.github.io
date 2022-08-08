@@ -15,7 +15,7 @@
 
 **CERN Webfest: Next-generation data visualization, 2022-Present**
 
-In collaboration with data scientists Carlos Vivar Ríos (Université de Lausanne) and Colas Droin (Ecole Polytechnique Fédérale de Lausanne), to be presented at the [CERN Webfest 2022](https://home.cern/news/announcement/computing/take-part-climate-action-through-cerns-online-webfest-challenge-2022), online.
+Experimental and collaborative project with data scientists Carlos Vivar Ríos (Université de Lausanne) and Colas Droin (Ecole Polytechnique Fédérale de Lausanne), to be presented at the [CERN Webfest 2022](https://home.cern/news/announcement/computing/take-part-climate-action-through-cerns-online-webfest-challenge-2022), online.
 
 [...]
 
