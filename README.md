@@ -58,7 +58,7 @@ This ongoing project creatively explores how advances in machine learning and AI
 
 <img width="1432" alt="Website_project04" src="https://user-images.githubusercontent.com/51691883/167885647-f2bf5f73-d241-47ed-bfde-b283ba2312ce.png">
 
-**Nexus Network Journal, social media and new website, 2019-Present**
+**Nexus Network Journal: social media and new website, 2019-Present**
 
 Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been: (a) Q1 in Visual Arts by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) Recognized for Editorial Excellence by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) Number 2 in the Springer Math journals catalogue, for downloads in 2020. Since 2019, I am social media editor and member of the editorial board, and now designing the new website for the forthcoming 'Nexus: Architecture and Mathematics International Conference 2023', while developing a strategy for the new reality of hybrid conferences.
 
@@ -66,34 +66,34 @@ Published in print by Birkhäuser and online at [Springer](https://www.springer.
 
 <img width="1439" alt="Website_Project05" src="https://user-images.githubusercontent.com/51691883/167877170-63fdc409-f55d-4008-9393-8c3dbbb7e3a2.png">
 
-**Visualizing Futures, UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016**
+**Visualizing Futures: UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016**
 
 At the Faculty of Engineering, Northumbria University, I worked as a senior research assistant , winning a research grant to develop [future scenario visualizations](https://www.gov.uk/government/publications/future-of-cities-visualising-the-future-of-newcastle) to support knowledge exchange and public engagement activities, with a team of 2 colleagues for this research project, commissioned by the UK Government Office for Science and Future of Cities Foresight Project. 
 
 [...]
 
 
-**Interactive visualizer, National Museum of Natural History and Science, Lisbon, Portugal, 2012-1013** 
+**Interactive visualizer: National Museum of Natural History and Science, Lisbon, Portugal, 2012-1013** 
 
 [...]
 
 
-**Models workshop, Fuksas Studio Rome, Italy, 2009-2010**
+**Models Workshop: Fuksas Studio Rome, Italy, 2009-2010**
 
 [...]
 
 
-**Interactive tram with data visualization, Jose Adriao architects, Lisbon, Portugal 2008**
+**Interactive Tram with Data Visualization: Jose Adriao architects, Lisbon, Portugal 2008**
 
 [...]
 
 
-**Models workshop, Josep Mias Architects, Barcelona, Spain 2007**
+**Models Workshop: Josep Mias Architects, Barcelona, Spain 2007**
 
 [...]
 
 
-## Recent Webinars / Talks 
+## Recent Webinars / Invited Talks 
 
 ### 2022
 
