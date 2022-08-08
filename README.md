@@ -11,6 +11,8 @@
 
 ## Selected Projects
 
+![Webfest horizontal poster - with logos](https://user-images.githubusercontent.com/51691883/183376420-eecc219f-4439-4bc0-89f9-519ad759103c.png)
+
 **CERN Webfest: Next-generation data visualization, 2022-Present**
 
 To be presented at the [CERN Webfest 2022](https://home.cern/news/announcement/computing/take-part-climate-action-through-cerns-online-webfest-challenge-2022), online.
