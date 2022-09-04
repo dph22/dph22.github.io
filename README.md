@@ -12,7 +12,7 @@
 
 ![Webfest horizontal poster - with logos](https://user-images.githubusercontent.com/51691883/183376420-eecc219f-4439-4bc0-89f9-519ad759103c.png)
 
-**1st prize winner at the CERN Webfest: Next-generation data visualization, 2022**
+**1st prize winners at the CERN Webfest: Next-generation data visualization, 2022**
 
 Experimental and collaborative project with data scientists Carlos Vivar Ríos (Université de Lausanne) and Colas Droin (Ecole Polytechnique Fédérale de Lausanne), presented and awarded the 1st prize at the [CERN Webfest 2022](https://webfest.cern/), online.
 
