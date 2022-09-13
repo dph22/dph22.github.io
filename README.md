@@ -14,7 +14,7 @@
 
 **1st prize winners at the CERN Webfest: Next-generation data visualization for climate action, 2022**
 
-Experimental and collaborative project with data scientists Carlos Vivar Ríos (Université de Lausanne) and Colas Droin (Ecole Polytechnique Fédérale de Lausanne), presented and awarded the 1st prize at the [CERN Webfest 2022](https://webfest.cern/), online.
+Experimental, collaborative, and open source software project with data scientists Carlos Vivar Ríos (Université de Lausanne) and Colas Droin (Ecole Polytechnique Fédérale de Lausanne), presented and awarded the 1st prize in the [CERN Webfest 2022](https://webfest.cern/), online.
 
 [...]
 
