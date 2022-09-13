@@ -12,7 +12,7 @@
 
 ![Webfest horizontal poster - with logos](https://user-images.githubusercontent.com/51691883/183376420-eecc219f-4439-4bc0-89f9-519ad759103c.png)
 
-**1st prize winners at the CERN Webfest: Next-generation data visualization, 2022**
+**1st prize winners at the CERN Webfest: Next-generation data visualization for climate action, 2022**
 
 Experimental and collaborative project with data scientists Carlos Vivar Ríos (Université de Lausanne) and Colas Droin (Ecole Polytechnique Fédérale de Lausanne), presented and awarded the 1st prize at the [CERN Webfest 2022](https://webfest.cern/), online.
 
@@ -112,7 +112,7 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 ## Key Publications
 
-Henriques, D.P. (accepted) “Playful experiences in the (post-) pandemic city: HCI, arts, and urban environments”, to be published in _HCI International 2022 – Late Breaking Papers: 24th HCI International Conference, HCII 2022, Gothenburg, Sweden, 26 June - 1 July 2022, Proceedings_. Cham: Springer, 12 pages.
+Henriques, D.P. (2022) “Collide, Accelerate, and Invite Artists as Guests: 10 years of art and science collaborations at CERN”, in Book of Abstracts EASST 2022 Politics of Technoscientific Futures, Madrid July 6-9. Madrid: European Association for the Study of Science and Technology, p. 359. [Available online](https://easst2022.org/programbook.asp).
 
 Rodgers, P.A., Innella, G., Bremner, C., Coxon, I., Cadamuro, A., Carleklev, S., Chan, K., Dilnot, C., Fathers, J., Fennell, J., Fremantle, C., French, T., Henriques, D.P., Jones, P.L., Kettley, R., Kettley, S., Khan, M., Logge, K., Archer-Martin, J., Pulley, R., Shahar, D., Tewari, S., Treadaway, C., Tsekleves, E., Valadkeshyaei, H.M., Ventura, J., Wiltse, H. and Winton, E. (2019) “The Lancaster Care Charter”, _Design Issues_, 35 (1), Winter 2019, pp. 73-77. [Available online](https://doi.org/10.1162/desi_a_00522).
 
