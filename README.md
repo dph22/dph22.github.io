@@ -3,9 +3,9 @@
 **International experience:** Currently working at the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); previoulys at the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR), [University of the West of England](https://www.uwe.ac.uk) (UK), [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain), [Studio Fuksas - Rome](https://fuksas.com) (Italy), [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands), and [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
 
 
-**Programming/ software:** Processing, Python, Java, C+, CSS, Adobe (Photoshop, Illustrator, InDesign, Premiere, XD), 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp)
+**Programming/ software:** Processing, Python, Java, C+, CSS, Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp); open data and GIS.
 
-**Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency); Danish and German (Learning since 2021)
+**Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency); Danish and German (Learning since 2021).
 
 
 ## Selected Projects
@@ -111,8 +111,6 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 
 ## Key Publications
-
-Henriques, D.P. (forthcoming) “'Nuclear Power? No Thanks!': The Smiling Sun logo and other graphic designs in the anti-nuclear global protests since the 1970s”. Place and publisher to be announced.
 
 Henriques, D.P. (2022) “Collide, Accelerate, and Invite Artists as Guests: 10 years of art and science collaborations at CERN”, in Book of Abstracts EASST 2022 Politics of Technoscientific Futures, Madrid July 6-9. Madrid: European Association for the Study of Science and Technology, p. 359. [Available online](https://easst2022.org/programbook.asp).
 
