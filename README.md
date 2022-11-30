@@ -94,6 +94,11 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 
 ## Recent Webinars / Invited Talks 
 
+### 2023
+
+[Bad Game Arcade: A Symposium all about Educational Games](https://www.badgamearcade.ca/), invited panelist in the 'Super-Effective Facilitation: How do we reach the right audience?' hybrid panel, Concordia University, Montreal, Canada, January 23-27, 2023.
+
+
 ### 2022
 
 [Art Entangled](https://cqn-erc.org/world-quantum-day/), invited panelist in World Quantum Day 2022 webinar, initiated by CERN and locally co-organized by CONNECT Centre Trinity College Dublin, the University of Dublin, Ireland, Faculty of Arts, Aarhus University, Denmark, and Center for Quantum Networks, University of Arizona, USA, April 14, 2022.
