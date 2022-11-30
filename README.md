@@ -96,7 +96,7 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 
 ### 2023
 
-[Bad Game Arcade: A Symposium all about Educational Games](https://www.badgamearcade.ca/), invited panelist in the 'Super-Effective Facilitation: How do we reach the right audience?' hybrid panel, Concordia University, Montreal, Canada, January 23-27, 2023.
+[Bad Game Arcade: A Symposium all about Educational Games](https://www.badgamearcade.ca/), invited panelist in the 'Super-Effective Facilitation: How do we reach the right audience?' hybrid panel, Technoculture, Art and Games Lab, Milieux Institute for Arts, Culture and Technology, Concordia University, Montreal, Canada, January 23-27, 2023.
 
 
 ### 2022
