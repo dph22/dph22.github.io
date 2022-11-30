@@ -101,7 +101,7 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 
 ### 2022
 
-[Art Entangled](https://cqn-erc.org/world-quantum-day/), invited panelist in World Quantum Day 2022 webinar, initiated by CERN and locally co-organized by CONNECT Centre Trinity College Dublin, the University of Dublin, Ireland, Faculty of Arts, Aarhus University, Denmark, and Center for Quantum Networks, University of Arizona, USA, April 14, 2022.
+[Art Entangled](https://www.eventbrite.ie/e/art-entangled-tickets-316620830427), invited panelist in 'World Quantum Day 2022 webinar', initiated by CERN and locally co-organized by CONNECT Centre Trinity College Dublin, the University of Dublin, Ireland, Faculty of Arts, Aarhus University, Denmark, and Center for Quantum Networks, University of Arizona, USA, April 14, 2022.
 
 [Creativity and Math as a Common Language](https://www.math.ksu.edu/research/artmathfiles/s22g_diogo_pereira_henriques.html), invited (online) talk in the Art and Math Seminar Spring 2022, organized by the Department of Mathematics at Kansas State University, USA, February 24, 2022.
 
