@@ -117,6 +117,8 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 ## Key Publications
 
+Henriques, D.P. (2022) “Searching for Neon Templates in Asia and Europe”, presented at the Society for Social Studies of Science (4S) / Associación Latino Americana de Estudios Sociales (ESOCITE) 2nd Joint Meeting 2022, Reunion, recuperation, reconfiguration: Knowledges and technosciences for living together, in Cholula/Puebla, México, Dec 7, 2022. [Available online](https://convention2.allacademic.com/one/ssss/ssss22/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1991264&PHPSESSID=1eidp5b3o088dgcq0tgfis3gbu).
+
 Henriques, D.P. (2022) “Collide, Accelerate, and Invite Artists as Guests: 10 years of art and science collaborations at CERN”, in Book of Abstracts EASST 2022 Politics of Technoscientific Futures, Madrid July 6-9. Madrid: European Association for the Study of Science and Technology, p. 359. [Available online](https://easst2022.org/programbook.asp).
 
 Rodgers, P.A., Innella, G., Bremner, C., Coxon, I., Cadamuro, A., Carleklev, S., Chan, K., Dilnot, C., Fathers, J., Fennell, J., Fremantle, C., French, T., Henriques, D.P., Jones, P.L., Kettley, R., Kettley, S., Khan, M., Logge, K., Archer-Martin, J., Pulley, R., Shahar, D., Tewari, S., Treadaway, C., Tsekleves, E., Valadkeshyaei, H.M., Ventura, J., Wiltse, H. and Winton, E. (2019) “The Lancaster Care Charter”, _Design Issues_, 35 (1), Winter 2019, pp. 73-77. [Available online](https://doi.org/10.1162/desi_a_00522).
