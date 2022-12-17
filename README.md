@@ -117,7 +117,7 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 ## Key Publications
 
-Henriques, D.P. (2022) “Searching for Neon Templates in Asia and Europe”, presented at the Society for Social Studies of Science (4S) / Associación Latino Americana de Estudios Sociales (ESOCITE) 2nd Joint Meeting 2022, Reunion, recuperation, reconfiguration: Knowledges and technosciences for living together, in Cholula/Puebla, México, Dec 7, 2022. [Available online](https://convention2.allacademic.com/one/ssss/ssss22/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1991264&PHPSESSID=1eidp5b3o088dgcq0tgfis3gbu).
+Henriques, D.P. (2022) “Searching for Neon Templates in Asia and Europe”, presented at the Society for Social Studies of Science (4S) / Associación Latino Americana de Estudios Sociales (ESOCITE) 2nd Joint Meeting 2022, Reunion, recuperation, reconfiguration: Knowledges and technosciences for living together, in Cholula/Puebla, México, Dec 7, 2022. [Available online](https://convention2.allacademic.com/one/ssss/ssss22/index.php?cmd=Online+Program+View+Session&selected_session_id=1999927&PHPSESSID=1eidp5b3o088dgcq0tgfis3gbu).
 
 Henriques, D.P. (2022) “Collide, Accelerate, and Invite Artists as Guests: 10 years of art and science collaborations at CERN”, in Book of Abstracts EASST 2022 Politics of Technoscientific Futures, Madrid July 6-9. Madrid: European Association for the Study of Science and Technology, p. 359. [Available online](https://easst2022.org/programbook.asp).
 
