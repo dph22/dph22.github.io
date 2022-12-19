@@ -72,7 +72,7 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 [...]
 
 
-**Graphic & Web Designer - Editorial and Communication Office, University of Lisbon, Portugal, 2014
+**Graphic & Web Designer - Editorial and Communication Office, University of Lisbon, Portugal, 2014**
 
 [...]
 
