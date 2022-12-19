@@ -72,6 +72,11 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 [...]
 
 
+**Graphic & Web Designer - Editorial and Communication Office, University of Lisbon, Portugal, 2014
+
+[...]
+
+
 **Interactive visualizer: National Museum of Natural History and Science, Lisbon, Portugal, 2012-1013** 
 
 [...]
