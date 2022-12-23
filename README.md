@@ -113,7 +113,7 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 
 ### 2021
 
-[Participation, Participation, Participation](https://kosovoarchitecture.com/), invited (online) talk in the Kosovo Architecture Festival (KAF) 2021, organized under the theme of Alter-Nation by the Kosovo Architecture Foundation in partnership with the Future Architecture Platform, held online in September 28, 2021. 
+[Participation, Participation, Participation](https://kosovoarchitecture.org/diogo-pereira-henriques-lecture-at-kaf-2021/), invited (online) talk in the Kosovo Architecture Festival (KAF) 2021, organized under the theme of Alter-Nation by the Kosovo Architecture Foundation in partnership with the Future Architecture Platform, held online in September 28, 2021. 
 
 KAF is dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Programme and co-funded by the [Creative Europe Programme of the European Union](https://culture.ec.europa.eu/creative-europe).
 
