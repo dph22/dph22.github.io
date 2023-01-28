@@ -12,7 +12,7 @@
 
 ![Webfest horizontal poster - with logos](https://user-images.githubusercontent.com/51691883/183376420-eecc219f-4439-4bc0-89f9-519ad759103c.png)
 
-**1st prize winners in the CERN, the European Organization for Nuclear Research, Webfest (hackathon): Next-generation data visualization for climate action, 2022**
+**1st prize winners in the European Organization for Nuclear Research, CERN Webfest (hackathon), Geneva, Switzerland: Next-generation data visualization for climate action, 2022**
 
 Experimental, collaborative, and open source software project with data scientists Carlos Vivar Ríos (Université de Lausanne) and Colas Droin (Ecole Polytechnique Fédérale de Lausanne), aiming to save energy through open data and advance science towards collaboration and climate action, presented and awarded the 1st prize in the [CERN Webfest 2022](https://webfest.cern/), online.
 
