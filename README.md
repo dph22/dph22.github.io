@@ -12,7 +12,7 @@
 
 ![Webfest horizontal poster - with logos](https://user-images.githubusercontent.com/51691883/183376420-eecc219f-4439-4bc0-89f9-519ad759103c.png)
 
-**1st prize winners in the CERN Webfest (hackathon): Next-generation data visualization for climate action, 2022**
+**1st prize winners in the CERN, the European Organization for Nuclear Research, Webfest (hackathon): Next-generation data visualization for climate action, 2022**
 
 Experimental, collaborative, and open source software project with data scientists Carlos Vivar Ríos (Université de Lausanne) and Colas Droin (Ecole Polytechnique Fédérale de Lausanne), aiming to save energy through open data and advance science towards collaboration and climate action, presented and awarded the 1st prize in the [CERN Webfest 2022](https://webfest.cern/), online.
 
@@ -121,6 +121,8 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 
 ## Key Publications
+
+Henriques, D.P. (forthcoming) “´Nuclear Power? No Thanks!`: the Smiling Sun logo and other graphic designs in the anti-nuclear global protests since the 1970s”, presented at the 2nd Colonial & Postcolonial Landscapes Congress, Calouste Gulbenkian Foundation, Lisbon, Portugal, January 18-20, 2023. [More info](https://dinamiacetiul.wixsite.com/congress-archwar). 
 
 Henriques, D.P. (2022) “Searching for Neon Templates in Asia and Europe”, presented at the Society for Social Studies of Science (4S) / Associación Latino Americana de Estudios Sociales (ESOCITE) 2nd Joint Meeting 2022, with the theme 'Reunion, recuperation, reconfiguration: Knowledges and technosciences for living together', in Cholula/Puebla, México, December 7-10, 2022. [Available online](https://convention2.allacademic.com/one/ssss/ssss22/index.php?cmd=Online+Program+View+Session&selected_session_id=1999927&PHPSESSID=1eidp5b3o088dgcq0tgfis3gbu).
 
