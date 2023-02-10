@@ -5,14 +5,14 @@
 
 **Programming/ software:** Processing, Python, Java, C+, CSS, Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp); Miro, Canva, Wordpress, GIS and open data.
 
-**Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency); Danish and German (Learning since 2021).
+**Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
 
 
 ## Selected Projects
 
 ![Webfest horizontal poster - with logos](https://user-images.githubusercontent.com/51691883/183376420-eecc219f-4439-4bc0-89f9-519ad759103c.png)
 
-**1st prize winners in the European Organization for Nuclear Research, CERN Webfest (hackathon), Geneva, Switzerland: Next-generation data visualization for climate action, 2022**
+**1st prize winners in the European Organisation for Nuclear Research, CERN Webfest (hackathon), Geneva, Switzerland: Next-generation data visualisation for climate action, 2022**
 
 Experimental, collaborative, and open source software project with data scientists Carlos Vivar Ríos (Université de Lausanne) and Colas Droin (Ecole Polytechnique Fédérale de Lausanne), aiming to save energy through open data and advance science towards collaboration and climate action, presented and awarded the 1st prize in the [CERN Webfest 2022](https://webfest.cern/), online.
 
@@ -59,15 +59,16 @@ This ongoing project creatively explores how advances in machine learning and AI
 
 **Nexus Network Journal: social media and new website, 2019-Present**
 
-Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been: (a) Q1 in Visual Arts by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) Recognized for Editorial Excellence by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) Number 2 in the Springer Math journals catalogue, for downloads in 2020. Since 2019, I am social media editor and member of the editorial board, and now designing the new website for the forthcoming 'Nexus: Architecture and Mathematics International Conference 2023', while developing a strategy for the new reality of hybrid conferences.
+Since 2019, I have also been the social media editor and member of the Editorial Board of the Nexus Network Journal (NNJ), in the fields of architecture and mathematics. Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been: (a) Q1 in Visual Arts by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) recognised for Editorial Excellence by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) number 2 in the Springer Math journals catalogue, for downloads in 2020; and (d) a top publication in Social Sciences / Architecture by Google Scholar.
+
 
 [...]
 
 <img width="1439" alt="Website_Project05" src="https://user-images.githubusercontent.com/51691883/167877170-63fdc409-f55d-4008-9393-8c3dbbb7e3a2.png">
 
-**Visualizing Futures: UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016**
+**Visualising Futures: UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016**
 
-At the Faculty of Engineering, Northumbria University, I worked as a senior research assistant , winning a research grant to develop [future scenario visualizations](https://www.gov.uk/government/publications/future-of-cities-visualising-the-future-of-newcastle) to support knowledge exchange and public engagement activities, with a team of 2 colleagues for this research project, commissioned by the UK Government Office for Science and Future of Cities Foresight Project. 
+At the Faculty of Engineering, Northumbria University, I worked as a senior research assistant , winning a research grant to develop [future scenario visualisations](https://www.gov.uk/government/publications/future-of-cities-visualising-the-future-of-newcastle) to support knowledge exchange and public engagement activities, with a team of 2 colleagues for this research project, commissioned by the UK Government Office for Science and Future of Cities Foresight Project. 
 
 [...]
 
@@ -77,7 +78,7 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 [...]
 
 
-**Interactive visualizer: National Museum of Natural History and Science, Lisbon, Portugal, 2012-1013** 
+**Interactive visualiser: National Museum of Natural History and Science, Lisbon, Portugal, 2012-1013** 
 
 [...]
 
@@ -87,7 +88,7 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 [...]
 
 
-**Interactive Tram with Data Visualization: Jose Adriao architects, Lisbon, Portugal 2008**
+**Interactive Tram with Data Visualisation: Jose Adriao architects, Lisbon, Portugal 2008**
 
 [...]
 
