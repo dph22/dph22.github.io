@@ -3,7 +3,7 @@
 **International experience:** Currently working at the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); previoulys at the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR), [University of the West of England](https://www.uwe.ac.uk) (UK), [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain), [Studio Fuksas - Rome](https://fuksas.com) (Italy), [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands), and [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
 
 
-**Programming/ software:** Processing, Python, Java, C+, CSS, Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp); Miro, Canva, Wordpress, GIS and open data.
+**Programming/ software:** Processing, Python, Java, C+, CSS, HTML; Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp); Miro, Canva, Wordpress, GIS and open data.
 
 **Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
 
@@ -12,7 +12,7 @@
 
 ![Webfest horizontal poster - with logos](https://user-images.githubusercontent.com/51691883/183376420-eecc219f-4439-4bc0-89f9-519ad759103c.png)
 
-**1st prize winners in the European Organisation for Nuclear Research, CERN Webfest (hackathon), Geneva, Switzerland: Next-generation data visualisation for climate action, 2022**
+**1st prize winners in the European Organization for Nuclear Research, CERN Webfest (hackathon), Geneva, Switzerland: Next-generation data visualization for climate action, 2022**
 
 Experimental, collaborative, and open source software project with data scientists Carlos Vivar Ríos (Université de Lausanne) and Colas Droin (Ecole Polytechnique Fédérale de Lausanne), aiming to save energy through open data and advance science towards collaboration and climate action, presented and awarded the 1st prize in the [CERN Webfest 2022](https://webfest.cern/), online.
 
@@ -33,7 +33,7 @@ This ongoing project creatively explores how advances in augmented reality (AR) 
 
 **Searching for Neon Templates in Asia and Europe, 2019-Present**
 
-This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybrid templates of neon lighting with postcolonial visions. Accepted to be presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), in Mexico.
+This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybrid templates of neon lighting with postcolonial visions. Presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), at the Universidad Iberoamericana, Puebla, Mexico, December 7-10, 2022.
 
 [...]
 
@@ -42,7 +42,7 @@ This ongoing project examines how the creation and development of neon lighting 
 
 **Future Architecture Fellowship, 2021-Present**
 
-Selected to participate in the [Creative Exchange 2021 Landscapes of Care](https://futurearchitectureplatform.org/programme/152/creative-exchange-2021-landscapes-of-care/), one of the first major events dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Programme and co-funded by the Creative Europe Programme of the European Union. Recently featured in the [Future Architecture book](https://futurearchitectureplatform.org/journal/69/future-architecture-book-out-now/), published by MAO Museum of Architecture and Design, Ljubljana 2021, and also financed by the European Union. 
+Selected to participate in the [Creative Exchange 2021 Landscapes of Care](https://futurearchitectureplatform.org/programme/152/creative-exchange-2021-landscapes-of-care/), one of the first major events dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Program and co-funded by the Creative Europe Program of the European Union. Recently featured in the [Future Architecture book](https://futurearchitectureplatform.org/journal/69/future-architecture-book-out-now/), published by MAO Museum of Architecture and Design, Ljubljana (2021), and also financed by the European Union. 
 
 [...]
 
@@ -51,7 +51,7 @@ Selected to participate in the [Creative Exchange 2021 Landscapes of Care](https
 
 **Augmenting Photography with Digital Tools, 2019-Present**
 
-This ongoing project creatively explores how advances in machine learning and AI can influence photography, particularly elusive effects as night light and snow, lensflares, artificial light, etc. 
+This ongoing project creatively explores how advances in machine learning and AI can influence photography and creativity, particularly elusive effects as night light and snow, lensflares, artificial light, etc. 
 
 [...]
 
@@ -59,16 +59,16 @@ This ongoing project creatively explores how advances in machine learning and AI
 
 **Nexus Network Journal: social media and new website, 2019-Present**
 
-Since 2019, I have also been the social media editor and member of the Editorial Board of the Nexus Network Journal (NNJ), in the fields of architecture and mathematics. Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been: (a) Q1 in Visual Arts by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) recognised for Editorial Excellence by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) number 2 in the Springer Math journals catalogue, for downloads in 2020; and (d) a top publication in Social Sciences / Architecture by Google Scholar.
+Since 2019, I have also been the social media editor and member of the Editorial Board of the Nexus Network Journal (NNJ), in the fields of architecture and mathematics. Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been: (a) Q1 in Visual Arts by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) recognized for Editorial Excellence by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) number 2 in the Springer Math journals catalog, for downloads in 2020; and (d) a top publication in Social Sciences / Architecture by Google Scholar.
 
 
 [...]
 
 <img width="1439" alt="Website_Project05" src="https://user-images.githubusercontent.com/51691883/167877170-63fdc409-f55d-4008-9393-8c3dbbb7e3a2.png">
 
-**Visualising Futures: UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016**
+**Visualizing Futures: UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016**
 
-At the Faculty of Engineering, Northumbria University, I worked as a senior research assistant , winning a research grant to develop [future scenario visualisations](https://www.gov.uk/government/publications/future-of-cities-visualising-the-future-of-newcastle) to support knowledge exchange and public engagement activities, with a team of 2 colleagues for this research project, commissioned by the UK Government Office for Science and Future of Cities Foresight Project. 
+At the Faculty of Engineering, Northumbria University, I worked as a senior research assistant , winning a research grant to develop [future scenario visualizations](https://www.gov.uk/government/publications/future-of-cities-visualising-the-future-of-newcastle) to support knowledge exchange and public engagement activities, with a team of 2 colleagues for this research project, commissioned by the UK Government Office for Science and Future of Cities Foresight Project. 
 
 [...]
 
@@ -78,7 +78,7 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 [...]
 
 
-**Interactive visualiser: National Museum of Natural History and Science, Lisbon, Portugal, 2012-1013** 
+**Interactive visualizer: National Museum of Natural History and Science, Lisbon, Portugal, 2012-1013** 
 
 [...]
 
@@ -88,7 +88,7 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 [...]
 
 
-**Interactive Tram with Data Visualisation: Jose Adriao architects, Lisbon, Portugal 2008**
+**Interactive Tram with Data Visualization: Jose Adriao architects, Lisbon, Portugal 2008**
 
 [...]
 
@@ -123,11 +123,11 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 ## Key Publications
 
-Henriques, D.P. (forthcoming) “´Nuclear Power? No Thanks!`: the Smiling Sun logo and other graphic designs in the anti-nuclear global protests since the 1970s”, presented at the 2nd Colonial & Postcolonial Landscapes Congress, Calouste Gulbenkian Foundation, Lisbon, Portugal, January 18-20, 2023. [More info](https://dinamiacetiul.wixsite.com/congress-archwar). 
+Henriques, D.P. (forthcoming) “'Nuclear Power? No Thanks!': the Smiling Sun logo and other graphic designs in the anti-nuclear global protests since the 1970s”, presented at the 2nd Colonial & Postcolonial Landscapes Congress, Calouste Gulbenkian Foundation, Lisbon, Portugal, January 18-20, 2023. [More info](https://dinamiacetiul.wixsite.com/congress-archwar). 
 
 Henriques, D.P. (2022) “Searching for Neon Templates in Asia and Europe”, presented at the Society for Social Studies of Science (4S) / Associación Latino Americana de Estudios Sociales (ESOCITE) 2nd Joint Meeting 2022, with the theme 'Reunion, recuperation, reconfiguration: Knowledges and technosciences for living together', in Cholula/Puebla, México, December 7-10, 2022. [Available online](https://convention2.allacademic.com/one/ssss/ssss22/index.php?cmd=Online+Program+View+Session&selected_session_id=1999927&PHPSESSID=1eidp5b3o088dgcq0tgfis3gbu).
 
-Henriques, D.P. (2022) “Collide, Accelerate, and Invite Artists as Guests: 10 years of art and science collaborations at CERN”, in Book of Abstracts EASST 2022 Politics of Technoscientific Futures, Madrid July 6-9. Madrid: European Association for the Study of Science and Technology, p. 359. [Available online](https://easst2022.org/programbook.asp).
+Henriques, D.P. (2022) “Collide, Accelerate, and Invite Artists as Guests: 10 years of art and science collaborations at CERN”, in Book of Abstracts EASST 2022 Politics of Technoscientific Futures, Madrid, Spain, July 6-9, 2022. Madrid: European Association for the Study of Science and Technology, p. 359. [Available online](https://easst2022.org/programbook.asp).
 
 Rodgers, P.A., Innella, G., Bremner, C., Coxon, I., Cadamuro, A., Carleklev, S., Chan, K., Dilnot, C., Fathers, J., Fennell, J., Fremantle, C., French, T., Henriques, D.P., Jones, P.L., Kettley, R., Kettley, S., Khan, M., Logge, K., Archer-Martin, J., Pulley, R., Shahar, D., Tewari, S., Treadaway, C., Tsekleves, E., Valadkeshyaei, H.M., Ventura, J., Wiltse, H. and Winton, E. (2019) “The Lancaster Care Charter”, _Design Issues_, 35 (1), Winter 2019, pp. 73-77. [Available online](https://doi.org/10.1162/desi_a_00522).
 
