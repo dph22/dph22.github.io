@@ -11,6 +11,8 @@
 ## Selected Projects
 
 
+![WikipediaOpenScienceAU2023] (https://github.com/dph22/dph22.github.io/blob/54058fed37eddef4cc2f941dcc9ef751330f7281/WikipediaOpenScienceAU2023.png)
+
 **ATU | Fokus: Citizen Science, Open Day for High-School Students at Aarhus University, Denmark: Wikipedia as Citizen Science, 2022**
 
 Originally designed in 1975 by the Danish activist Anne Lund in collaboration with Søren Lisberg, in Aarhus, the logo of the “Smiling Sun” has been used for more than forty years now, and it has become a powerful visual symbol for the global anti-nuclear war and energy protest movement. Broadly reflecting on Wikipedia as open science and citizen science, we aim to co-create a Wikipedia page about Anne Lund. Similar to a hackathon, a Wiki edit-a-thon event tries to raise awareness of the importance of online references, here focusing on this anti-nuclear activist pioneer with a hands-on and citizen science approach at [ATU Fokus Citizen Science 2023](https://atumidt.dk/ATU_Fokus_Citizen_Science_2023), online.
