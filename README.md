@@ -15,6 +15,10 @@
 
 Originally designed in 1975 by the Danish activist Anne Lund in collaboration with Søren Lisberg, in Aarhus, the logo of the “Smiling Sun” has been used for more than forty years now, and it has become a powerful visual symbol for the global anti-nuclear war and energy protest movement. Broadly reflecting on Wikipedia as open science and citizen science, we aim to co-create a Wikipedia page about Anne Lund. Similar to a hackathon, a Wiki edit-a-thon event tries to raise awareness of the importance of online references, here focusing on this anti-nuclear activist pioneer with a hands-on and citizen science approach at [ATU Fokus Citizen Science 2023](https://atumidt.dk/ATU_Fokus_Citizen_Science_2023), online.
 
+[...]
+
+
+
 ![Webfest horizontal poster - with logos](https://user-images.githubusercontent.com/51691883/183376420-eecc219f-4439-4bc0-89f9-519ad759103c.png)
 
 **1st prize winners in the European Organization for Nuclear Research, CERN Webfest (hackathon), Geneva, Switzerland: Next-generation data visualization for climate action, 2022**
