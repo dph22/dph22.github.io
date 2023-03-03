@@ -11,7 +11,7 @@
 ## Selected Projects
 
 
-<img width="1376" alt="WikipediaOpenScienceAU2023" src="https://user-images.githubusercontent.com/51691883/222704394-b02620b8-7dfd-4493-896b-84f2f14f5a8d.png">
+![WikipediaOpenScienceAU2023](https://user-images.githubusercontent.com/51691883/222704394-b02620b8-7dfd-4493-896b-84f2f14f5a8d.png>)
 
 **ATU | Fokus: Citizen Science, Open Day for High-School Students at Aarhus University, Denmark: Wikipedia as Citizen Science, 2022**
 
