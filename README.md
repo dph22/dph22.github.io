@@ -144,7 +144,7 @@ Rodgers, P.A., Innella, G., Bremner, C., Coxon, I., Cadamuro, A., Carleklev, S.,
 
 Henriques, D.P., Dalton, R. C. and Greenhalgh, P. (2017) “Measuring the impact of future visions through card sorting: from user experience to
 participatory planning (a pilot study)”, in J. Verbeke (ed.) Urban Living Labs for Public Space – A New Generation of Planning? Proceedings of the Incubators conference at the KU Leuven, Faculty of Architecture, Campus Sint-Lucas Brussels 10-11 April 2017. Brussels: KU Leuven, pp. 121-128. ISBN:
-9789082510898. [Available online] (https://www.researchgate.net/publication/317182609_Measuring_the_impact_of_future_visions_through_card_sorting_from_user_experience_to_participatory_planning_a_pilot_study). Recently cited by Litaker and Howard (2022), from NASA [read more here](https://ntrs.nasa.gov/citations/20220012604).
+9789082510898.[Available online](https://www.researchgate.net/publication/317182609_Measuring_the_impact_of_future_visions_through_card_sorting_from_user_experience_to_participatory_planning_a_pilot_study). Recently cited by Litaker and Howard (2022), from NASA [read more here](https://ntrs.nasa.gov/citations/20220012604).
 
 Henriques, D.P. (2017) “Emerging patterns of change for tomorrow’s cities”, in M. Costa, F. Roseta, J. Lages and S. Costa (eds) _Architectural Research Addressing Societal Challenges: Proceedings of the 10th EAAE ARCC International Conference, Lisbon, Portugal, 15-18 June 2016_. London: CRC Press / Taylor & Francis Group, Vol. 01, pp. 27-32. ISBN: 9781138029668. [Available online](https://www.taylorfrancis.com/books/edit/10.1201/9781315116068/architectural-research-addressing-societal-challenges-manuel-couceiro-da-costa-filipa-roseta-joana-pestana-lages-susana-couceiro-da-costa).
 
