@@ -5,7 +5,7 @@
 
 **Programming/ software:** Processing, Python, Java, C+, CSS, HTML; Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp); Miro, Canva, Wordpress, GIS and open data.
 
-**Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
+**Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Dutch, Mandarin, Cantonese, and Japanese (Basic proficiency).
 
 
 ## Selected Projects
@@ -141,6 +141,10 @@ Henriques, D.P. (2022) “Searching for Neon Templates in Asia and Europe”, pr
 Henriques, D.P. (2022) “Collide, Accelerate, and Invite Artists as Guests: 10 years of art and science collaborations at CERN”, in Book of Abstracts EASST 2022 Politics of Technoscientific Futures, Madrid, Spain, July 6-9, 2022. Madrid: European Association for the Study of Science and Technology, p. 359. [Available online](https://easst2022.org/programbook.asp).
 
 Rodgers, P.A., Innella, G., Bremner, C., Coxon, I., Cadamuro, A., Carleklev, S., Chan, K., Dilnot, C., Fathers, J., Fennell, J., Fremantle, C., French, T., Henriques, D.P., Jones, P.L., Kettley, R., Kettley, S., Khan, M., Logge, K., Archer-Martin, J., Pulley, R., Shahar, D., Tewari, S., Treadaway, C., Tsekleves, E., Valadkeshyaei, H.M., Ventura, J., Wiltse, H. and Winton, E. (2019) “The Lancaster Care Charter”, _Design Issues_, 35 (1), Winter 2019, pp. 73-77. [Available online](https://doi.org/10.1162/desi_a_00522).
+
+Henriques, D.P., Dalton, R. C. and Greenhalgh, P. (2017) “Measuring the impact of future visions through card sorting: from user experience to
+participatory planning (a pilot study)”, in J. Verbeke (ed.) Urban Living Labs for Public Space – A New Generation of Planning? Proceedings of the Incubators conference at the KU Leuven, Faculty of Architecture, Campus Sint-Lucas Brussels 10-11 April 2017. Brussels: KU Leuven, pp. 121-128. ISBN:
+9789082510898. [Available online] (https://www.researchgate.net/publication/317182609_Measuring_the_impact_of_future_visions_through_card_sorting_from_user_experience_to_participatory_planning_a_pilot_study). Recently cited by Litaker and Howard (2022), from NASA [read more here](https://ntrs.nasa.gov/citations/20220012604).
 
 Henriques, D.P. (2017) “Emerging patterns of change for tomorrow’s cities”, in M. Costa, F. Roseta, J. Lages and S. Costa (eds) _Architectural Research Addressing Societal Challenges: Proceedings of the 10th EAAE ARCC International Conference, Lisbon, Portugal, 15-18 June 2016_. London: CRC Press / Taylor & Francis Group, Vol. 01, pp. 27-32. ISBN: 9781138029668. [Available online](https://www.taylorfrancis.com/books/edit/10.1201/9781315116068/architectural-research-addressing-societal-challenges-manuel-couceiro-da-costa-filipa-roseta-joana-pestana-lages-susana-couceiro-da-costa).
 
