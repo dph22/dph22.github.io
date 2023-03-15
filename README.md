@@ -136,20 +136,63 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 Henriques, D.P. (forthcoming) “'Nuclear Power? No Thanks!': the Smiling Sun logo and other graphic designs in the anti-nuclear global protests since the 1970s”, presented at the 2nd Colonial & Postcolonial Landscapes Congress, Calouste Gulbenkian Foundation, Lisbon, Portugal, January 18-20, 2023. [More info](https://dinamiacetiul.wixsite.com/congress-archwar). 
 
-Henriques, D.P. (2022) “Searching for Neon Templates in Asia and Europe”, presented at the Society for Social Studies of Science (4S) / Associación Latino Americana de Estudios Sociales (ESOCITE) 2nd Joint Meeting 2022, with the theme 'Reunion, recuperation, reconfiguration: Knowledges and technosciences for living together', in Cholula/Puebla, México, December 7-10, 2022. [Available online](https://convention2.allacademic.com/one/ssss/ssss22/index.php?cmd=Online+Program+View+Session&selected_session_id=1999927&PHPSESSID=1eidp5b3o088dgcq0tgfis3gbu).
+Henriques, D.P. (2022) “Searching for Neon Templates in Asia and Europe”, presented at the Society for Social Studies of Science (4S) / Associación Latino Americana de Estudios Sociales (ESOCITE) 2nd Joint Meeting 2022, with the theme 'Reunion, recuperation, reconfiguration: Knowledges and technosciences for living together', in Cholula/Puebla, México, December 7-10, 2022.
+[Available online](https://convention2.allacademic.com/one/ssss/ssss22/index.php?cmd=Online+Program+View+Session&selected_session_id=1999927&PHPSESSID=1eidp5b3o088dgcq0tgfis3gbu).
 
-Henriques, D.P. (2022) “Collide, Accelerate, and Invite Artists as Guests: 10 years of art and science collaborations at CERN”, in Book of Abstracts EASST 2022 Politics of Technoscientific Futures, Madrid, Spain, July 6-9, 2022. Madrid: European Association for the Study of Science and Technology, p. 359. [Available online](https://easst2022.org/programbook.asp).
+Henriques, D.P. (2022) “Collide, Accelerate, and Invite Artists as Guests: 10 years of art and science collaborations at CERN”, in Book of Abstracts EASST 2022 Politics of Technoscientific Futures, Madrid, Spain, July 6-9, 2022. Madrid: European Association for the Study of Science and Technology, p. 359.
+[Available online](https://easst2022.org/programbook.asp).
 
-Rodgers, P.A., Innella, G., Bremner, C., Coxon, I., Cadamuro, A., Carleklev, S., Chan, K., Dilnot, C., Fathers, J., Fennell, J., Fremantle, C., French, T., Henriques, D.P., Jones, P.L., Kettley, R., Kettley, S., Khan, M., Logge, K., Archer-Martin, J., Pulley, R., Shahar, D., Tewari, S., Treadaway, C., Tsekleves, E., Valadkeshyaei, H.M., Ventura, J., Wiltse, H. and Winton, E. (2019) “The Lancaster Care Charter”, _Design Issues_, 35 (1), Winter 2019, pp. 73-77. [Available online](https://doi.org/10.1162/desi_a_00522).
+Rodgers, P.A., Innella, G., Bremner, C., Coxon, I., Cadamuro, A., Carleklev, S., Chan, K., Dilnot, C., Fathers, J., Fennell, J., Fremantle, C., French, T., Henriques, D.P., Jones, P.L., Kettley, R., Kettley, S., Khan, M., Logge, K., Archer-Martin, J., Pulley, R., Shahar, D., Tewari, S., Treadaway, C., Tsekleves, E., Valadkeshyaei, H.M., Ventura, J., Wiltse, H. and Winton, E. (2019) “The Lancaster Care Charter”, _Design Issues_, 35 (1), Winter 2019, pp. 73-77.
+[Available online](https://doi.org/10.1162/desi_a_00522).
 
 Henriques, D.P., Dalton, R. C. and Greenhalgh, P. (2017) “Measuring the impact of future visions through card sorting: from user experience to
 participatory planning (a pilot study)”, in J. Verbeke (ed.) Urban Living Labs for Public Space – A New Generation of Planning? Proceedings of the Incubators conference at the KU Leuven, Faculty of Architecture, Campus Sint-Lucas Brussels 10-11 April 2017. Brussels: KU Leuven, pp. 121-128. ISBN:
-9789082510898. [Available online](https://www.researchgate.net/publication/317182609_Measuring_the_impact_of_future_visions_through_card_sorting_from_user_experience_to_participatory_planning_a_pilot_study). Recently cited by Litaker and Howard (2022), from NASA [read more here](https://ntrs.nasa.gov/citations/20220012604).
+9789082510898. 
+[Available online] (https://www.researchgate.net/publication/317182609_Measuring_the_impact_of_future_visions_through_card_sorting_from_user_experience_to_participatory_planning_a_pilot_study). Recently cited by Litaker and Howard (2022), from NASA [read more here](https://ntrs.nasa.gov/citations/20220012604).
 
-Henriques, D.P. (2017) “Emerging patterns of change for tomorrow’s cities”, in M. Costa, F. Roseta, J. Lages and S. Costa (eds) _Architectural Research Addressing Societal Challenges: Proceedings of the 10th EAAE ARCC International Conference, Lisbon, Portugal, 15-18 June 2016_. London: CRC Press / Taylor & Francis Group, Vol. 01, pp. 27-32. ISBN: 9781138029668. [Available online](https://www.taylorfrancis.com/books/edit/10.1201/9781315116068/architectural-research-addressing-societal-challenges-manuel-couceiro-da-costa-filipa-roseta-joana-pestana-lages-susana-couceiro-da-costa).
+Henriques, D.P. (2017) “Emerging patterns of change for tomorrow’s cities”, in M. Costa, F. Roseta, J. Lages and S. Costa (eds) _Architectural Research Addressing Societal Challenges: Proceedings of the 10th EAAE ARCC International Conference, Lisbon, Portugal, 15-18 June 2016_. London: CRC Press / Taylor & Francis Group, Vol. 01, pp. 27-32. ISBN: 9781138029668.
+[Available online](https://www.taylorfrancis.com/books/edit/10.1201/9781315116068/architectural-research-addressing-societal-challenges-manuel-couceiro-da-costa-filipa-roseta-joana-pestana-lages-susana-couceiro-da-costa).
 
-Henriques, D.P. (2013) “Space time information on display: smart devices and spatial cognition”, in H. Bartolo et al. (eds) _Green Design, Materials and Manufacturing Processes_. London: CRC Press / Taylor & Francis Group, pp. 519-523. ISBN: 9781138000469. [Available online](https://www.taylorfrancis.com/books/mono/10.1201/b15002/green-design-materials-manufacturing-processes-michael-tomlinson-john-woodward).
+Henriques, D.P. (2013) “Space time information on display: smart devices and spatial cognition”, in H. Bartolo et al. (eds) _Green Design, Materials and Manufacturing Processes_. London: CRC Press / Taylor & Francis Group, pp. 519-523. ISBN: 9781138000469.
+[Available online](https://www.taylorfrancis.com/books/mono/10.1201/b15002/green-design-materials-manufacturing-processes-michael-tomlinson-john-woodward).
 
 
 Read more on [Scholar](https://scholar.google.com/citations?user=ZaERkbEAAAAJ&hl=en).
 
+[...]
+
+
+## Service 
+
+**Social Media Editor and Corresponding Editor of the Nexus Network Journal (NNJ), since 2019**
+
+Developing strategies that support open access and broad dissemination of research articles in the field of mathematics and architecture, particularly through the website and social media (Facebook, Twitter, LinkedIn, Instagram), with the following achievements since 2019: (a) recognized for editorial excellence by Springer Nature; (b) number 2 in the Springer Math journals catalog for downloads in 2020; (c) Q1 in Visual Arts by Scimago; (d) top publication in social sciences/ architecture by Google Scholar between 2019-2020. Also, developing and maintaining strong relationships with the editors in chief, corresponding editors, authors, prospective authors, and external partners/ publishers Springer Nature and Birkhäuser.
+
+**Scientific Reviewer for the Nexus Network Journal, Architectural Science Review, and the Journal of Asian Architecture and Building Engineering**
+2019- Present
+
+**Member of the Review Committee of the 41th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2023** 
+TU Graz, Austria
+2023
+
+**Member of the Review Committee of the CAAD Futures Conference 2023** 
+TU Delft, the Netherlands
+2023
+
+**Member of the Review Committee of the 40th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2022** 
+KU Leuven/Ghent, Belgium
+2022
+
+**Invited Member of the Review Committee of the 4th International Conference of Biodigital Architecture & Genetics (BIODIG) 2020**
+UIC, Barcelona
+2019 
+
+**Organizing Committee Member for the Engineering & Environment Postgraduate Conference** 
+Northumbria University at Newcastle, UK
+2018 
+
+**Assistant of the Organizing Committee of the 2nd International Conference on Sustainable Intelligent Manufacturing (SIM) 2013**
+University of Lisbon, Portugal
+2013 
+
+[...]
