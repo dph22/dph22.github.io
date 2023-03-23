@@ -134,6 +134,8 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 ## Key Publications
 
+Henriques, D.P. (forthcoming) “Digital twins, ghosts, mirrors, and worlds: Learning and collaborating towards future urban visions and climate action“, abstract accepted for the session on ’Making Machine Learning Worlds’ (from the European Research Council funded-project ’Algorithmic Societies: Ethical Life in the Machine Learning Age’), at the RGS-IBG Annual International Conference, to be held at the Imperial College London and Royal Geographical Society, London, UK, August 31-September 1 2023. [More info](https://www.rgs.org/research/annual-international-conference/). 
+
 Henriques, D.P. (forthcoming) “'Nuclear Power? No Thanks!': the Smiling Sun logo and other graphic designs in the anti-nuclear global protests since the 1970s”, presented at the 2nd Colonial & Postcolonial Landscapes Congress, Calouste Gulbenkian Foundation, Lisbon, Portugal, January 18-20, 2023. [More info](https://dinamiacetiul.wixsite.com/congress-archwar). 
 
 Henriques, D.P. (2022) “Searching for Neon Templates in Asia and Europe”, presented at the Society for Social Studies of Science (4S) / Associación Latino Americana de Estudios Sociales (ESOCITE) 2nd Joint Meeting 2022, with the theme 'Reunion, recuperation, reconfiguration: Knowledges and technosciences for living together', in Cholula/Puebla, México, December 7-10, 2022.
@@ -166,8 +168,8 @@ Read more on [Scholar](https://scholar.google.com/citations?user=ZaERkbEAAAAJ&hl
 
 Developing strategies that support open access and broad dissemination of research articles in the field of mathematics and architecture, particularly through the website and social media (Facebook, Twitter, LinkedIn, Instagram), with the following achievements since 2019: (a) recognized for editorial excellence by Springer Nature; (b) number 2 in the Springer Math journals catalog for downloads in 2020; (c) Q1 in Visual Arts by Scimago; (d) top publication in social sciences/ architecture by Google Scholar between 2019-2020. Also, developing and maintaining strong relationships with the editors in chief, corresponding editors, authors, prospective authors, and external partners/ publishers Springer Nature and Birkhäuser.
 
-**Scientific Reviewer for the Nexus Network Journal, Architectural Science Review, and the Journal of Asian Architecture and Building Engineering**
-2019- Present
+**Scientific Reviewer for the Nexus Network Journal (Springer), Architectural Science Review, and the Journal of Asian Architecture and Building Engineering (Taylor & Francis)**
+2019-Present
 
 **Member of the Review Committee of the 41th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2023** 
 TU Graz, Austria
