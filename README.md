@@ -3,7 +3,7 @@
 **International experience:** Currently working at the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); previoulys at the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR), [University of the West of England](https://www.uwe.ac.uk) (UK), [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain), [Studio Fuksas - Rome](https://fuksas.com) (Italy), [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands), and [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
 
 
-**Programming/ software:** Processing, Python, Java, C+, CSS, HTML; Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp); Miro, Canva, Wordpress, GIS and open data.
+**Programming/ software:** Processing, Python, Java, C+, CSS, HTML; Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp); Nvivo, Miro, Canva, Wordpress, GIS and open data.
 
 **Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Dutch, Mandarin, Cantonese, and Japanese (Basic proficiency).
 
