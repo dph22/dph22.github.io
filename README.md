@@ -10,6 +10,13 @@
 
 ## Selected Projects
 
+**ECo-lab AI: Ethics, Aesthetics, and Climate Action with Artificial Intelligence**
+
+Inclusive Policy Lab, UNESCO
+
+[...]
+
+
 
 <img width="1376" alt="WikipediaOpenScienceAU2023" src="https://user-images.githubusercontent.com/51691883/222706807-17026891-d6ba-467b-8d36-26111b7f6b20.png">
 
