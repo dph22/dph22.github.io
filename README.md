@@ -11,7 +11,7 @@
 ## Selected Projects
 
 
-![BlueskyThinking01](https://user-images.githubusercontent.com/51691883/230028468-ff76a94a-e993-41cc-9457-71f46e063e57.jpeg)
+<img width="1401" alt="DayNight_2023" src="https://user-images.githubusercontent.com/51691883/230138613-a48797ee-2a33-4331-8caf-3d53f5e52228.png">
 
 **ECo-lab AI: Ethics, Aesthetics, and Climate Action with Artificial Intelligence**
 
