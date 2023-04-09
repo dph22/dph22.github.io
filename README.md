@@ -7,6 +7,8 @@
 
 **Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Dutch, Mandarin, Cantonese, and Japanese (Basic proficiency).
 
+**Email:** <diogo_ph@proton.me>
+
 
 ## Selected Projects
 
