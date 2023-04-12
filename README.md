@@ -178,7 +178,6 @@ Read more on [Scholar](https://scholar.google.com/citations?user=ZaERkbEAAAAJ&hl
 
 !BEING UPDATED!
 
-
 **Invited Guest Lecture AI and Text to Image models in the course "Structures" led by Assistant Professor Markus Matthias Hudert**
 Department of Civil and Architectural Engineering, Aarhus University, Denmark
 2023
@@ -190,6 +189,14 @@ Department of Digital Design and Information Studies, Aarhus University, Denmark
 **Participation as Critic in the Final Project Presentations of the course "Smart Cities" led by Associate Professor Christoph Raetzsch**
 Department of Media and Journalism Studies, Aarhus University, Denmark
 2022
+
+**Linking Teaching & Research Grant “Visualising Sustainability in Design Studios”, with BSc Architecture, BEng Architecture and Environmental Engineering, and BA Architecture and Planning Programmes**
+Department of Architecture and the Built Environment, University of the West of England, United Kingdom
+2020
+
+**Development of Curriculum for a New Undergraduate Course on AI and Art, as part of a research project in the same areas with a grant from the Centre for Applied Computing and Interactive Media (ACIM)**
+School of Creative Media, City University of Kong Kong, Hong Kong SAR
+2019
 
 **Invited Jury Member of the Committee for International MArch Programme**
 Faculty of Architecture, KU Leuven/Ghent, Belgium
