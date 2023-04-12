@@ -177,20 +177,22 @@ Read more on [Scholar](https://scholar.google.com/citations?user=ZaERkbEAAAAJ&hl
 ## Teaching 
 
 !BEING UPDATED!
+
+
 **Invited Guest Lecture AI and Text to Image models in the course "Structures" led by Assistant Professor Markus Matthias Hudert**
-Aarhus University
+Department of Civil and Architectural Engineering, Aarhus University, Denmark
 2023
 
 **Participation as Critic in the Final Project Demos and Presentations of the course "Aesthetic Programming" led by Associate Professor Winnie Soon**
-Aarhus University
+Department of Digital Design and Information Studies, Aarhus University, Denmark
 2022
 
 **Participation as Critic in the Final Project Presentations of the course "Smart Cities" led by Associate Professor Christoph Raetzsch**
-Aarhus University
+Department of Media and Journalism Studies, Aarhus University, Denmark
 2022
 
 **Invited Jury Member of the Committee for International MArch Programme**
-KU Leuven/Ghent BE
+Faculty of Architecture, KU Leuven/Ghent, Belgium
 2019
 
 
