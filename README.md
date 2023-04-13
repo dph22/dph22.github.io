@@ -202,6 +202,8 @@ School of Creative Media, City University of Kong Kong, Hong Kong SAR
 Faculty of Architecture, KU Leuven/Ghent, Belgium
 2019
 
+[...]
+
 
 ## Service 
 
