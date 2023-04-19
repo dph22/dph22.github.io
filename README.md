@@ -178,6 +178,8 @@ Read more on [Scholar](https://scholar.google.com/citations?user=ZaERkbEAAAAJ&hl
 
 !BEING UPDATED!
 
+![AIlecture01_social_media01](https://user-images.githubusercontent.com/51691883/233054816-1faa163f-62ea-4601-a901-6b87d2578241.jpg)
+
 **Invited Guest Lecture AI and Text to Image models in the course "Structures" led by Assistant Professor Markus Matthias Hudert**
 Department of Civil and Architectural Engineering, Aarhus University, Denmark
 2023
