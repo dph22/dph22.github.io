@@ -150,6 +150,8 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 ## Key Publications
 
+Barns, S. and Henriques, D.P. (forthcoming) “Charting and diagramming the alternate futures of platform urbanism: Speculative sketches and wayfinding tools“, chapter proposal accepted for the Handbook of Platform Urbanism, Pieter Ballon & Annelien Smets (Eds.), to be published by Edward Elgar Publishing.
+
 Henriques, D.P. (forthcoming) “Digital twins, ghosts, mirrors, and worlds: Learning and collaborating towards future urban visions and climate action“, abstract accepted for the session on ’Making Machine Learning Worlds’ (from the European Research Council funded-project ’Algorithmic Societies: Ethical Life in the Machine Learning Age’), at the RGS-IBG Annual International Conference, to be held at the Imperial College London and Royal Geographical Society, London, UK, August 31-September 1 2023. [More info](https://www.rgs.org/research/annual-international-conference/). 
 
 Henriques, D.P. (forthcoming) “'Nuclear Power? No Thanks!': the Smiling Sun logo and other graphic designs in the anti-nuclear global protests since the 1970s”, presented at the 2nd Colonial & Postcolonial Landscapes Congress, Calouste Gulbenkian Foundation, Lisbon, Portugal, January 18-20, 2023. [More info](https://dinamiacetiul.wixsite.com/congress-archwar). 
