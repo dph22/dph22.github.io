@@ -153,6 +153,8 @@ Henriques, D.P. (forthcoming) “'Nuclear Power? No Thanks!': the Smiling Sun lo
 Henriques, D.P. (2022) “Searching for Neon Templates in Asia and Europe”, presented at the Society for Social Studies of Science (4S) / Associación Latino Americana de Estudios Sociales (ESOCITE) 2nd Joint Meeting 2022, with the theme 'Reunion, recuperation, reconfiguration: Knowledges and technosciences for living together', in Cholula/Puebla, México, December 7-10, 2022.
 [Available online](https://convention2.allacademic.com/one/ssss/ssss22/index.php?cmd=Online+Program+View+Session&selected_session_id=1999927&PHPSESSID=1eidp5b3o088dgcq0tgfis3gbu).
 
+Raetzsch, C., Henriques, D.P., Hamm, A. and Shibuya, Y. (2022) ”Journalism and the Democratic Interface: From Data Dashboards to Participatory Infrastructures”, presented at the  9th European Communication Conference (ECREA 2022), 19-22 October 2022, Aarhus, Denmark.
+
 Henriques, D.P. (2022) “Collide, Accelerate, and Invite Artists as Guests: 10 years of art and science collaborations at CERN”, in Book of Abstracts EASST 2022 Politics of Technoscientific Futures, Madrid, Spain, July 6-9, 2022. Madrid: European Association for the Study of Science and Technology, p. 359.
 [Available online](https://easst2022.org/programbook.asp).
 
@@ -160,7 +162,7 @@ Rodgers, P.A., Innella, G., Bremner, C., Coxon, I., Cadamuro, A., Carleklev, S.,
 [Available online](https://doi.org/10.1162/desi_a_00522).
 
 Henriques, D.P., Dalton, R. C. and Greenhalgh, P. (2017) “Measuring the impact of future visions through card sorting: from user experience to
-participatory planning (a pilot study)”, in J. Verbeke (ed.) Urban Living Labs for Public Space – A New Generation of Planning? Proceedings of the Incubators conference at the KU Leuven, Faculty of Architecture, Campus Sint-Lucas Brussels 10-11 April 2017. Brussels: KU Leuven, pp. 121-128. 
+participatory planning (a pilot study)”, in J. Verbeke (ed.) Urban Living Labs for Public Space – A New Generation of Planning? Proceedings of the Incubators conference at the KU Leuven, Faculty of Architecture, Campus Sint-Lucas Brussels 10-11 April 2017. Brussels: KU Leuven, pp. 121-128. Recently cited by another conference paper written by colleagues from NASA [(Litaker and Howard, 2023)](https://ntrs.nasa.gov/citations/20220012604).
 
 Henriques, D.P. (2017) “Emerging patterns of change for tomorrow’s cities”, in M. Costa, F. Roseta, J. Lages and S. Costa (eds) _Architectural Research Addressing Societal Challenges: Proceedings of the 10th EAAE ARCC International Conference, Lisbon, Portugal, 15-18 June 2016_. London: CRC Press / Taylor & Francis Group, Vol. 01, pp. 27-32. ISBN: 9781138029668.
 [Available online](https://www.taylorfrancis.com/books/edit/10.1201/9781315116068/architectural-research-addressing-societal-challenges-manuel-couceiro-da-costa-filipa-roseta-joana-pestana-lages-susana-couceiro-da-costa).
