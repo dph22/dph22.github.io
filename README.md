@@ -125,6 +125,10 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 
 ### 2023
 
+[WASP-HS "AI, Education and Children"](https://wasp-hs.org/events/ai-education-and-children/), invited participant in the online event and roundtable "How Can We Ensure Algorithmic Fairness to Protect Children?", organized by the Wallenberg Artificial Intelligence, Autonomous Systems and Software Program, Umeå University, Sweden, April 19, 2023.
+
+[3rd Interoperable Europe SEMIC workshop on Personal Data Spaces](https://joinup.ec.europa.eu/collection/semic-support-centre/event/third-workshop-personal-data-spaces), invited participant in the (in-person) workshop to co-create the vision and roadmap 2023-2025 for Interoperable Europe, organized by PwC and supported by the European Commission, Ghent, Belgium, March 31, 2023.
+
 [Bad Game Arcade: A Symposium all about Educational Games](https://www.badgamearcade.ca/), invited panelist in the 'Super-Effective Facilitation: How do we reach the right audience?' hybrid panel, organized by the Technoculture, Art and Games Lab, Milieux Institute for Arts, Culture and Technology, Concordia University, Montreal, Canada, January 23-27, 2023.
 
 
