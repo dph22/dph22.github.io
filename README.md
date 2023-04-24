@@ -184,7 +184,11 @@ Read more on [Scholar](https://scholar.google.com/citations?user=ZaERkbEAAAAJ&hl
 
 ## Teaching 
 
-!BEING UPDATED!
+Overall, I have significant experience in bridging teaching, research and practice, developed at internationally recognised universities in Europe and Asia. At Aarhus University, Denmark, I supported the evaluations and development of an innovative curriculum for a new 'smart' cities course at the Master’s level, and the development of materials for a new course for 2022-2023. Furthermore, I supervised Master's and Undergraduate (international) students, with the ability to motivate them to publish and present their studies at international conferences. For example, with an undergraduate student from Aarhus University, School of Business and Social Sciences (Aarhus BSS), we co-wrote a conference paper on start-ups developing games in Budapest and Copenhagen, accepted to be presented at the 25th International Conference on Human-Computer Interaction HCII 2023, Copenhagen, Denmark. 
+
+Moreover, at the University of the West of England (UWE), UK, I designed, developed and produced multiple learning and teaching materials, with a Linking Teaching & Research grant titled 'Visualising Sustainability in Design Studios,' for BSc Architecture, BEng Architecture and Environmental Engineering, and BA Architecture and Planning programmes. Furthermore, at the School of Creative Media, City University of Kong Kong, I launched an interdisciplinary research project linking art and artificial intelligence, including the development of curriculum for a new undergraduate course; with a grant from the Centre for Applied Computing and Interactive Media (ACIM). Finally, at the University of Lisbon, Portugal, I conducted user analysis of a visualisation prototype software, alongside colleagues from the Faculty of Computer Science, through usability workshops with students and the integration of research in a course module 'Computational Processes' for 2nd-year undergraduate students in Design, Interior Design, Architecture, and Urban Planning, at the School of Architecture. Following this research, I would also be part of the supervision team support for one student with a mobility disability (i.e. using a wheelchair in his daily life), for his MSc dissertation in Computer Science, at the Faculty of Computer Science of the University of Lisbon, Portugal.
+
+[Being Updated]
 
 ![AIlecture01_social_media01](https://user-images.githubusercontent.com/51691883/233054816-1faa163f-62ea-4601-a901-6b87d2578241.jpg)
 
