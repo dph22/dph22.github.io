@@ -12,6 +12,15 @@
 
 ## Selected Projects
 
+<img width="658" alt="AITURINGCITY_portfolio00" src="https://github.com/dph22/dph22.github.io/assets/51691883/8b880337-93c1-4318-a879-95b00a842ec6">
+
+**In preparation**
+
+Invited talk in “AI art” event co-organised by the Turing Institute and City, University of London, UK, 2023. 
+
+[...]
+
+
 
 <img width="1401" alt="DayNight_2023" src="https://user-images.githubusercontent.com/51691883/230138613-a48797ee-2a33-4331-8caf-3d53f5e52228.png">
 
