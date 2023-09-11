@@ -12,6 +12,7 @@
 
 ## Selected Projects
 
+
 **Synthetic City conference 2023**
 
 As YECREA representative, co-organised this conference at Dublin City University, Ireland, 2023.
