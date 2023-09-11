@@ -118,7 +118,7 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 [...]
 
 
-**Interactive visualizer: National Museum of Natural History and Science, Lisbon, Portugal, 2012-1013** 
+**Interactive visualizer: National Museum of Natural History and Science, Lisbon, Portugal, 2012-2013** 
 
 [...]
 
