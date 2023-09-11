@@ -1,9 +1,9 @@
 ### Hi, my name is Diogo Pereira Henriques, and I'm a multidisciplinary artist, designer, researcher, educator, and learner; between East and West, North and South: always looking forward to global positive change! 
 
-**International experience:** Currently working at the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); previoulys at the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR), [University of the West of England](https://www.uwe.ac.uk) (UK), [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain), [Studio Fuksas - Rome](https://fuksas.com) (Italy), [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands), and [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
+**International experience:** I have been working in several research, teaching, and project management positions in Europe and Asia, for example at: the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR); the [University of the West of England](https://www.uwe.ac.uk) (UK); [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain); [Studio Fuksas - Rome](https://fuksas.com) (Italy); [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands); and the [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
 
 
-**Programming/ software:** Processing, Python, Java, C+, CSS, HTML; Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp); Nvivo, Miro, Canva, Wordpress, GIS and open data tools.
+**Programming/ software:** Processing, Python, Java, C+, CSS, HTML; Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp); Nvivo, Miro, Canva, Wordpress, GIS and developing open data tools.
 
 **Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Dutch, Catalan, Mandarin, Cantonese, and Japanese (Basic proficiency).
 
@@ -12,9 +12,16 @@
 
 ## Selected Projects
 
+**Synthetic City conference 2023**
+
+As YECREA representative, co-organised this conference at Dublin City University, Ireland, 2023.
+
+[...]
+
+
 <img width="658" alt="AITURINGCITY_portfolio00" src="https://github.com/dph22/dph22.github.io/assets/51691883/8b880337-93c1-4318-a879-95b00a842ec6">
 
-**In preparation**
+**How can AI art enhance diversity and inclusion?**
 
 Invited talk in “AI art” event co-organised by the Turing Institute and City, University of London, UK, 2023. 
 
@@ -72,7 +79,7 @@ This ongoing project examines how the creation and development of neon lighting 
 
 ![Website_project03](https://user-images.githubusercontent.com/51691883/164502959-8a1cb6f8-b1eb-4bd8-a602-3bc643a3124d.jpg)
 
-**Future Architecture Fellowship, 2021-Present**
+**Future Architecture Fellowship, 2021-2022**
 
 Selected to participate in the [Creative Exchange 2021 Landscapes of Care](https://futurearchitectureplatform.org/programme/152/creative-exchange-2021-landscapes-of-care/), one of the first major events dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Program and co-funded by the Creative Europe Program of the European Union. Recently featured in the [Future Architecture book](https://futurearchitectureplatform.org/journal/69/future-architecture-book-out-now/), published by MAO Museum of Architecture and Design, Ljubljana (2021), and also financed by the European Union. 
 
@@ -134,23 +141,23 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 
 ### 2023
 
-[WASP-HS "AI, Education and Children"](https://wasp-hs.org/events/ai-education-and-children/), invited participant in the online event and roundtable "How Can We Ensure Algorithmic Fairness to Protect Children?", organized by the Wallenberg Artificial Intelligence, Autonomous Systems and Software Program, Umeå University, Sweden, April 19, 2023.
+[WASP-HS "AI, Education and Children"](https://wasp-hs.org/events/ai-education-and-children/), invited participant in the online event and roundtable "How Can We Ensure Algorithmic Fairness to Protect Children?", organised by the Wallenberg Artificial Intelligence, Autonomous Systems and Software Program, Umeå University, Sweden, April 19, 2023.
 
-[3rd Interoperable Europe SEMIC workshop on Personal Data Spaces](https://joinup.ec.europa.eu/collection/semic-support-centre/event/third-workshop-personal-data-spaces), invited participant in the (in-person) workshop to co-create the vision and roadmap 2023-2025 for Interoperable Europe, organized by PwC and supported by the European Commission, Ghent, Belgium, March 31, 2023.
+[3rd Interoperable Europe SEMIC workshop on Personal Data Spaces](https://joinup.ec.europa.eu/collection/semic-support-centre/event/third-workshop-personal-data-spaces), invited participant in the (in-person) workshop to co-create the vision and roadmap 2023-2025 for Interoperable Europe, organised by PwC and supported by the European Commission, Ghent, Belgium, March 31, 2023.
 
-[Bad Game Arcade: A Symposium all about Educational Games](https://www.badgamearcade.ca/), invited panelist in the 'Super-Effective Facilitation: How do we reach the right audience?' hybrid panel, organized by the Technoculture, Art and Games Lab, Milieux Institute for Arts, Culture and Technology, Concordia University, Montreal, Canada, January 23-27, 2023.
+[Bad Game Arcade: A Symposium all about Educational Games](https://www.badgamearcade.ca/), invited panelist in the 'Super-Effective Facilitation: How do we reach the right audience?' hybrid panel, organised by the Technoculture, Art and Games Lab, Milieux Institute for Arts, Culture and Technology, Concordia University, Montreal, Canada, January 23-27, 2023.
 
 
 ### 2022
 
-[Art Entangled](https://www.eventbrite.ie/e/art-entangled-tickets-316620830427), invited panelist in 'World Quantum Day 2022 webinar', initiated by CERN and locally co-organized by CONNECT Centre Trinity College Dublin, the University of Dublin, Ireland, Faculty of Arts, Aarhus University, Denmark, and Center for Quantum Networks, University of Arizona, USA, April 14, 2022.
+[Art Entangled](https://www.eventbrite.ie/e/art-entangled-tickets-316620830427), invited panelist in 'World Quantum Day 2022 webinar', initiated by CERN and locally co-organised by CONNECT Centre Trinity College Dublin, the University of Dublin, Ireland, Faculty of Arts, Aarhus University, Denmark, and Center for Quantum Networks, University of Arizona, USA, April 14, 2022.
 
-[Creativity and Math as a Common Language](https://www.math.ksu.edu/research/artmathfiles/s22g_diogo_pereira_henriques.html), invited (online) talk in the Art and Math Seminar Spring 2022, organized by the Department of Mathematics at Kansas State University, USA, February 24, 2022.
+[Creativity and Math as a Common Language](https://www.math.ksu.edu/research/artmathfiles/s22g_diogo_pereira_henriques.html), invited (online) talk in the Art and Math Seminar Spring 2022, organised by the Department of Mathematics at Kansas State University, USA, February 24, 2022.
 
 
 ### 2021
 
-[Participation, Participation, Participation](https://kosovoarchitecture.org/diogo-pereira-henriques-lecture-at-kaf-2021/), invited (online) talk in the Kosovo Architecture Festival (KAF) 2021, organized under the theme of Alter-Nation by the Kosovo Architecture Foundation in partnership with the Future Architecture Platform, held online in September 28, 2021. 
+[Participation, Participation, Participation](https://kosovoarchitecture.org/diogo-pereira-henriques-lecture-at-kaf-2021/), invited (online) talk in the Kosovo Architecture Festival (KAF) 2021, organised under the theme of Alter-Nation by the Kosovo Architecture Foundation in partnership with the Future Architecture Platform, held online in September 28, 2021. 
 
 KAF is dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Programme and co-funded by the [Creative Europe Programme of the European Union](https://culture.ec.europa.eu/creative-europe).
 
@@ -161,7 +168,7 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 Barns, S. and Henriques, D.P. (forthcoming) “Charting and diagramming the alternate futures of platform urbanism: Speculative sketches and wayfinding tools“, chapter proposal accepted for the Handbook of Platform Urbanism, Pieter Ballon & Annelien Smets (Eds.), to be published by Edward Elgar Publishing.
 
-Henriques, D.P. (forthcoming) “Digital twins, ghosts, mirrors, and worlds: Learning and collaborating towards future urban visions and climate action“, abstract accepted for the session on ’Making Machine Learning Worlds’ (from the European Research Council funded-project ’Algorithmic Societies: Ethical Life in the Machine Learning Age’), at the RGS-IBG Annual International Conference, to be held at the Imperial College London and Royal Geographical Society, London, UK, August 31-September 1 2023. [More info](https://www.rgs.org/research/annual-international-conference/). 
+Henriques, D.P. (forthcoming) “Envisioning a new synthetic city? A reflection on AI text-to-video generators, creativity, and our future urban visions” to be presented at The Synthetic City: Potentials, Politics and Everyday Life conference 2023. Dublin City University, Ireland, hosted by the ECREA Media, Cities and Space Section, 6-7 Sep, 2023, and to be published in the post-conference proceedings. [More info]( https://syntheticcity2023.com/programme/).
 
 Henriques, D.P. (forthcoming) “'Nuclear Power? No Thanks!': the Smiling Sun logo and other graphic designs in the anti-nuclear global protests since the 1970s”, presented at the 2nd Colonial & Postcolonial Landscapes Congress, Calouste Gulbenkian Foundation, Lisbon, Portugal, January 18-20, 2023. [More info](https://dinamiacetiul.wixsite.com/congress-archwar). 
 
@@ -230,11 +237,13 @@ Faculty of Architecture, KU Leuven/Ghent, Belgium
 
 ## Service 
 
+**Media, Cities and Space section representative, Young Scholars Network of the European Communication Research and Education Association (YECREA), since 2023**
+
 **Social Media Editor and Corresponding Editor of the Nexus Network Journal (NNJ), since 2019**
 
 Developing strategies that support open access and broad dissemination of research articles in the field of mathematics and architecture, particularly through the website and social media (Facebook, Twitter, LinkedIn, Instagram), with the following achievements since 2019: (a) recognized for editorial excellence by Springer Nature; (b) number 2 in the Springer Math journals catalog for downloads in 2020; (c) Q1 in Visual Arts by Scimago; (d) top publication in social sciences/ architecture by Google Scholar between 2019-2020. Also, developing and maintaining strong relationships with the editors in chief, corresponding editors, authors, prospective authors, and external partners/ publishers Springer Nature and Birkhäuser.
 
-**Scientific Reviewer for the Nexus Network Journal (Springer), Architectural Science Review, and the Journal of Asian Architecture and Building Engineering (Taylor & Francis)**
+**Scientific Reviewer for the Nexus Network Journal (Springer), Architectural Science Review and the Journal of Asian Architecture and Building Engineering (Taylor & Francis), and Press Start (University of Glasgow)**
 2019-Present
 
 **Member of the Review Committee of the 41th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2023** 
@@ -253,11 +262,11 @@ KU Leuven/Ghent, Belgium
 UIC, Barcelona
 2019 
 
-**Organizing Committee Member for the Engineering & Environment Postgraduate Conference** 
+**Organising Committee Member for the Engineering & Environment Postgraduate Conference 2018** 
 Northumbria University at Newcastle, UK
 2018 
 
-**Assistant of the Organizing Committee of the 2nd International Conference on Sustainable Intelligent Manufacturing (SIM) 2013**
+**Assistant of the Organising Committee of the 2nd International Conference on Sustainable Intelligent Manufacturing (SIM) 2013**
 University of Lisbon, Portugal
 2013 
 
