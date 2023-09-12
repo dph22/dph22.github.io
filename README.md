@@ -13,6 +13,7 @@
 ## Selected Projects / Events
 
 
+
 ![logo_and_subtitle_conference_whitebackground](https://github.com/dph22/dph22.github.io/assets/51691883/3a0a623b-b740-4c4b-b206-f91b154091f1)
 
 **Synthetic City conference 2023**
