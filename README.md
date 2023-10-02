@@ -62,7 +62,7 @@ Experimental, collaborative, and open source software project with data scientis
 [...]
 
 
-**3D Media Objects: Augmented reality on Aarhus University campus, Aarhus, Denmark, 2022-Present**
+**3D Media Objects: Augmented reality on Aarhus University campus, Aarhus, Denmark, 2022-2023t**
 
 ![AUcampus_3DMediaObjects](https://user-images.githubusercontent.com/51691883/183379226-d1f4185b-880a-4f5c-869a-c1ac00d5d3cf.jpg)
 
