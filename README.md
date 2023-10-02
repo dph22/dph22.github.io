@@ -12,104 +12,109 @@
 
 ## Selected Projects / Events
 
-
+**Synthetic City conference 2023**
 
 ![logo_and_subtitle_conference_whitebackground](https://github.com/dph22/dph22.github.io/assets/51691883/3a0a623b-b740-4c4b-b206-f91b154091f1)
 
-**Synthetic City conference 2023**
 
 As YECREA representative, co-organisation of [The Synthetic City conference](https://syntheticcity2023.com), hosted by the ECREA Media, Cities and Space Section, at Dublin City University, Ireland, 2023.
 
 [...]
 
 
+**How can AI art enhance diversity and inclusion?**
+
 <img width="658" alt="AITURINGCITY_portfolio00" src="https://github.com/dph22/dph22.github.io/assets/51691883/8b880337-93c1-4318-a879-95b00a842ec6">
 
-**How can AI art enhance diversity and inclusion?**
 
 Invited talk in “AI art” event co-organised by the Turing Institute and City, University of London, UK, 2023. 
 
 [...]
 
 
+**ECo-lab AI: Ethics and Climate Action with Artificial Intelligence**
 
 <img width="1401" alt="DayNight_2023" src="https://user-images.githubusercontent.com/51691883/230138613-a48797ee-2a33-4331-8caf-3d53f5e52228.png">
 
-**ECo-lab AI: Ethics and Climate Action with Artificial Intelligence**
 
 Inclusive Policy Lab, UNESCO
 
 [...]
 
 
+**ATU Fokus Citizen Science, Open Day for High-School Students at Aarhus University, Denmark: Wikipedia as Citizen Science, 2023**
 
 <img width="1376" alt="WikipediaOpenScienceAU2023" src="https://user-images.githubusercontent.com/51691883/222706807-17026891-d6ba-467b-8d36-26111b7f6b20.png">
 
-**ATU Fokus Citizen Science, Open Day for High-School Students at Aarhus University, Denmark: Wikipedia as Citizen Science, 2023**
 
 Originally designed in 1975 by the Danish activist Anne Lund in collaboration with Søren Lisberg, in Aarhus, the logo of the “Smiling Sun” has been used for more than forty years now, and it has become a powerful visual symbol for the global anti-nuclear war and energy protest movement. Broadly reflecting on Wikipedia as open science and citizen science, we aim to co-create a Wikipedia page about Anne Lund. Similar to a hackathon, a Wiki edit-a-thon event tries to raise awareness of the importance of online references, here focusing on this anti-nuclear activist pioneer with a hands-on and citizen science approach at [ATU Fokus Citizen Science 2023](https://atumidt.dk/ATU_Fokus_Citizen_Science_2023), online.
 
 [...]
 
 
+**1st prize winners in the European Organization for Nuclear Research, CERN Webfest (hackathon), Geneva, Switzerland: Next-generation data visualization for climate action, 2022**
 
 ![Webfest horizontal poster - with logos](https://user-images.githubusercontent.com/51691883/183376420-eecc219f-4439-4bc0-89f9-519ad759103c.png)
 
-**1st prize winners in the European Organization for Nuclear Research, CERN Webfest (hackathon), Geneva, Switzerland: Next-generation data visualization for climate action, 2022**
 
 Experimental, collaborative, and open source software project with data scientists Carlos Vivar Ríos (Université de Lausanne) and Colas Droin (Ecole Polytechnique Fédérale de Lausanne), aiming to save energy through open data and advance science towards collaboration and climate action, presented and awarded the 1st prize in the [CERN Webfest 2022](https://webfest.cern/), online.
 
 [...]
 
 
+**3D Media Objects: Augmented reality on Aarhus University campus, Aarhus, Denmark, 2022-Present**
 
 ![AUcampus_3DMediaObjects](https://user-images.githubusercontent.com/51691883/183379226-d1f4185b-880a-4f5c-869a-c1ac00d5d3cf.jpg)
 
-**3D Media Objects: Augmented reality on Aarhus University campus, Aarhus, Denmark, 2022-Present**
 
 This ongoing project creatively explores how advances in augmented reality (AR) can change the experience of news and media on the campus of Aarhus University, for students, staff, and visitors. 
 
 [...]
 
 
+**Searching for Neon Templates in Asia and Europe, 2019-Present**
+
 ![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
 
-**Searching for Neon Templates in Asia and Europe, 2019-Present**
 
 This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybrid templates of neon lighting with postcolonial visions. Presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), at the Universidad Iberoamericana, Puebla, Mexico, December 7-10, 2022.
 
 [...]
 
 
+**Future Architecture Fellowship, 2021-2022**
+
 ![Website_project03](https://user-images.githubusercontent.com/51691883/164502959-8a1cb6f8-b1eb-4bd8-a602-3bc643a3124d.jpg)
 
-**Future Architecture Fellowship, 2021-2022**
 
 Selected to participate in the [Creative Exchange 2021 Landscapes of Care](https://futurearchitectureplatform.org/programme/152/creative-exchange-2021-landscapes-of-care/), one of the first major events dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Program and co-funded by the Creative Europe Program of the European Union. Recently featured in the [Future Architecture book](https://futurearchitectureplatform.org/journal/69/future-architecture-book-out-now/), published by MAO Museum of Architecture and Design, Ljubljana (2021), and also financed by the European Union. 
 
 [...]
 
 
+**Augmenting Photography with Digital Tools, 2019-Present**
+
 ![Website_project02](https://user-images.githubusercontent.com/51691883/164502863-18a87a4c-ea1e-470c-89e0-338b7eaa1e1e.jpg)
 
-**Augmenting Photography with Digital Tools, 2019-Present**
 
 This ongoing project creatively explores how advances in machine learning and AI can influence photography and creativity, particularly elusive effects as night light and snow, lensflares, artificial light, etc. 
 
 [...]
 
-<img width="1432" alt="Website_project04" src="https://user-images.githubusercontent.com/51691883/167885647-f2bf5f73-d241-47ed-bfde-b283ba2312ce.png">
 
 **Nexus Network Journal: social media and new website, 2019-Present**
 
-Since 2019, I have also been the social media editor and member of the Editorial Board of the Nexus Network Journal (NNJ), in the fields of architecture and mathematics. Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been: (a) Q1 in Visual Arts by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) recognized for Editorial Excellence by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) number 2 in the Springer Math journals catalog, for downloads in 2020; and (d) a top publication in Social Sciences / Architecture by Google Scholar.
+<img width="1432" alt="Website_project04" src="https://user-images.githubusercontent.com/51691883/167885647-f2bf5f73-d241-47ed-bfde-b283ba2312ce.png">
 
+
+Since 2019, I have also been the social media editor and member of the Editorial Board of the Nexus Network Journal (NNJ), in the fields of architecture and mathematics. Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been: (a) Q1 in Visual Arts by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) recognized for Editorial Excellence by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) number 2 in the Springer Math journals catalog, for downloads in 2020; and (d) a top publication in Social Sciences / Architecture by Google Scholar.
 
 [...]
 
+**Visualizing Futures: UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016**
+
 <img width="1439" alt="Website_Project05" src="https://user-images.githubusercontent.com/51691883/167877170-63fdc409-f55d-4008-9393-8c3dbbb7e3a2.png">
 
-**Visualizing Futures: UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016**
 
 At the Faculty of Engineering, Northumbria University, I worked as a senior research assistant , winning a research grant to develop [future scenario visualizations](https://www.gov.uk/government/publications/future-of-cities-visualising-the-future-of-newcastle) to support knowledge exchange and public engagement activities, with a team of 2 colleagues for this research project, commissioned by the UK Government Office for Science and Future of Cities Foresight Project. 
 
@@ -121,12 +126,12 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 [...]
 
 
-**Interactive visualizer: National Museum of Natural History and Science, Lisbon, Portugal, 2012-2013** 
+**Interactive Visualizer: National Museum of Natural History and Science, Lisbon, Portugal, 2012-2013** 
 
 [...]
 
 
-**Models Workshop: Fuksas Studio Rome, Italy, 2009-2010**
+**Models Workshop, International Projects, Competitions: Fuksas Studio Rome, Italy, 2009-2010**
 
 [...]
 
@@ -136,7 +141,7 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 [...]
 
 
-**Models Workshop: Josep Mias Architects, Barcelona, Spain 2007**
+**Models Workshop, On-site Management: Josep Mias Architects, Barcelona, Spain 2007**
 
 [...]
 
@@ -204,9 +209,9 @@ Read more on [Scholar](https://scholar.google.com/citations?user=ZaERkbEAAAAJ&hl
 
 ## Teaching 
 
-Overall, I have significant experience in bridging teaching, research and practice, developed at internationally recognised universities in Europe and Asia. At Aarhus University, Denmark, I supported the evaluations and development of an innovative curriculum for a new 'smart' cities course at the Master’s level, and the development of materials for a new course for 2022-2023. Furthermore, I supervised Master's and Undergraduate (international) students, with the ability to motivate them to publish and present their studies at international conferences. For example, with an undergraduate student from Aarhus University, School of Business and Social Sciences (Aarhus BSS), we co-wrote a conference paper on start-ups developing games in Budapest and Copenhagen, accepted to be presented at the 25th International Conference on Human-Computer Interaction HCII 2023, Copenhagen, Denmark. 
+Overall, I have significant experience in bridging teaching, research and practice, developed at internationally recognised universities in Europe and Asia. At Aarhus University, Denmark, I supported the evaluations and development of an innovative curriculum for a new 'smart' cities course at the Master’s level, and the development of materials for a new course for 2022-2023. Furthermore, I supervised Master's and Undergraduate (international) students, with the ability to motivate them to publish and present their studies at international conferences. For example, with an undergraduate student from Aarhus University, School of Business and Social Sciences (Aarhus BSS), we co-wrote a conference paper on start-ups developing games in Budapest and Copenhagen, presented at the 25th International Conference on Human-Computer Interaction HCII 2023, Copenhagen, Denmark. 
 
-Moreover, at the University of the West of England (UWE), UK, I designed, developed and produced multiple learning and teaching materials, with a Linking Teaching & Research grant titled 'Visualising Sustainability in Design Studios,' for BSc Architecture, BEng Architecture and Environmental Engineering, and BA Architecture and Planning programmes. Furthermore, at the School of Creative Media, City University of Kong Kong, I launched an interdisciplinary research project linking art and artificial intelligence, including the development of curriculum for a new undergraduate course; with a grant from the Centre for Applied Computing and Interactive Media (ACIM). Finally, at the University of Lisbon, Portugal, I conducted user analysis of a visualisation prototype software, alongside colleagues from the Faculty of Computer Science, through usability workshops with students and the integration of research in a course module 'Computational Processes' for 2nd-year undergraduate students in Design, Interior Design, Architecture, and Urban Planning, at the School of Architecture. Following this research, I would also be part of the supervision team support for one student with a mobility disability (i.e. using a wheelchair in his daily life), for his MSc dissertation in Computer Science, at the Faculty of Computer Science of the University of Lisbon, Portugal.
+Moreover, at the University of the West of England (UWE), UK, I designed, developed and produced multiple learning and teaching materials, with a Linking Teaching & Research grant titled 'Visualising Sustainability in Design Studios,' for BSc Architecture, BEng Architecture and Environmental Engineering, and BA Architecture and Planning programmes. Furthermore, at the School of Creative Media, City University of Kong Kong, HK SAR, I launched an interdisciplinary research project linking art and artificial intelligence, including the development of curriculum for a new undergraduate course; with a grant from the Centre for Applied Computing and Interactive Media (ACIM). Finally, at the University of Lisbon, Portugal, I conducted user analysis of a visualisation prototype software, alongside colleagues from the Faculty of Computer Science, through usability workshops with students and the integration of research in a course module 'Computational Processes' for 2nd-year undergraduate students in Design, Interior Design, Architecture, and Urban Planning, at the School of Architecture. Following this research, I would also be part of the supervision team support for one student with a mobility disability (i.e. using a wheelchair in his daily life), for his MSc dissertation in Computer Science, at the Faculty of Computer Science of the University of Lisbon, Portugal.
 
 [Being Updated]
 
