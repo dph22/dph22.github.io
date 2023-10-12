@@ -17,7 +17,7 @@
 ![logo_and_subtitle_conference_whitebackground](https://github.com/dph22/dph22.github.io/assets/51691883/3a0a623b-b740-4c4b-b206-f91b154091f1)
 
 
-As YECREA representative, co-organisation of [The Synthetic City conference](https://syntheticcity2023.com), hosted by the ECREA Media, Cities and Space Section, at Dublin City University, Ireland, 2023.
+As YECREA representative, co-organisation with Scott Rogers (Birbeck, University of London), Marcos Dias (Dublin City University), and Lou Therese Brandner (University of Tübingen), of the [The Synthetic City international conference](https://syntheticcity2023.com), hosted by the ECREA Media, Cities and Space Section, at Dublin City University, Ireland, 2023. 
 
 [...]
 
