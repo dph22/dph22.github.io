@@ -173,13 +173,12 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 [...]
 
 
-## Key Publications
+## Key Publications and Conference Presentations
 
-Barns, S. and Henriques, D.P. (forthcoming) “Charting and diagramming the alternate futures of platform urbanism: Speculative sketches and wayfinding tools“, chapter proposal accepted for the Handbook of Platform Urbanism, Pieter Ballon & Annelien Smets (Eds.), to be published by Edward Elgar Publishing.
 
-Henriques, D.P. (forthcoming) “Envisioning a new synthetic city? A reflection on AI text-to-video generators, creativity, and our future urban visions” to be presented at The Synthetic City: Potentials, Politics and Everyday Life conference 2023. Dublin City University, Ireland, hosted by the ECREA Media, Cities and Space Section, 6-7 Sep, 2023, and to be published in the post-conference proceedings. [More info]( https://syntheticcity2023.com/programme/).
+Henriques, D.P. (2023) “Envisioning a new synthetic city? A reflection on AI text-to-video generators, creativity, and our future urban visions” to be presented at The Synthetic City: Potentials, Politics and Everyday Life conference 2023. Dublin City University, Ireland, hosted by the ECREA Media, Cities and Space Section, 6-7 Sep, 2023, and to be published in the post-conference proceedings. [More info]( https://syntheticcity2023.com/programme/).
 
-Henriques, D.P. (forthcoming) “'Nuclear Power? No Thanks!': the Smiling Sun logo and other graphic designs in the anti-nuclear global protests since the 1970s”, presented at the 2nd Colonial & Postcolonial Landscapes Congress, Calouste Gulbenkian Foundation, Lisbon, Portugal, January 18-20, 2023. [More info](https://dinamiacetiul.wixsite.com/congress-archwar). 
+Henriques, D.P. (2023) “'Nuclear Power? No Thanks!': the Smiling Sun logo and other graphic designs in the anti-nuclear global protests since the 1970s”, presented at the 2nd Colonial & Postcolonial Landscapes Congress, Calouste Gulbenkian Foundation, Lisbon, Portugal, January 18-20, 2023. [More info](https://dinamiacetiul.wixsite.com/congress-archwar). 
 
 Henriques, D.P. (2022) “Searching for Neon Templates in Asia and Europe”, presented at the Society for Social Studies of Science (4S) / Associación Latino Americana de Estudios Sociales (ESOCITE) 2nd Joint Meeting 2022, with the theme 'Reunion, recuperation, reconfiguration: Knowledges and technosciences for living together', in Cholula/Puebla, México, December 7-10, 2022.
 [Available online](https://convention2.allacademic.com/one/ssss/ssss22/index.php?cmd=Online+Program+View+Session&selected_session_id=1999927&PHPSESSID=1eidp5b3o088dgcq0tgfis3gbu).
