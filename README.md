@@ -166,7 +166,7 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 
 ### 2021
 
-[Participation, Participation, Participation](https://kosovoarchitecture.org/diogo-pereira-henriques-lecture-at-kaf-2021/), invited (online) talk in the Kosovo Architecture Festival (KAF) 2021, organised under the theme of Alter-Nation by the Kosovo Architecture Foundation in partnership with the Future Architecture Platform, held online in September 28, 2021. 
+[Participation, Participation, Participation](https://kosovoarchitecture.org/diogo-pereira-henriques-lecture-at-kaf-2021/), invited (online) talk in the Kosovo Architecture Festival (KAF) 2021, organised under the theme of Alter-Nation by the Kosovo Architecture Foundation in partnership with the Future Architecture Platform, held online on September 28, 2021. 
 
 KAF is dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Programme and co-funded by the [Creative Europe Programme of the European Union](https://culture.ec.europa.eu/creative-europe).
 
@@ -228,7 +228,7 @@ Department of Digital Design and Information Studies, Aarhus University, Denmark
 Department of Media and Journalism Studies, Aarhus University, Denmark
 2022
 
-**Linking Teaching & Research Grant “Visualising Sustainability in Design Studios”, with BSc Architecture, BEng Architecture and Environmental Engineering, and BA Architecture and Planning Programmes**
+**Linking Teaching & Research Grant “Visualizing Sustainability in Design Studios”, with BSc Architecture, BEng Architecture and Environmental Engineering, and BA Architecture and Planning Programmes**
 Department of Architecture and the Built Environment, University of the West of England, United Kingdom
 2020
 
@@ -249,10 +249,18 @@ Faculty of Architecture, KU Leuven/Ghent, Belgium
 
 **Social Media Editor and Corresponding Editor of the Nexus Network Journal (NNJ), since 2019**
 
-Developing strategies that support open access and broad dissemination of research articles in the field of mathematics and architecture, particularly through the website and social media (Facebook, Twitter, LinkedIn, Instagram), with the following achievements since 2019: (a) recognized for editorial excellence by Springer Nature; (b) number 2 in the Springer Math journals catalog for downloads in 2020; (c) Q1 in Visual Arts by Scimago; (d) top publication in social sciences/ architecture by Google Scholar between 2019-2020. Also, developing and maintaining strong relationships with the editors in chief, corresponding editors, authors, prospective authors, and external partners/ publishers Springer Nature and Birkhäuser.
+Developing strategies that support open access and broad dissemination of research articles in the field of mathematics and architecture, particularly through the website and social media (Facebook, Twitter, LinkedIn, Instagram), with the following achievements since 2019: (a) recognized for editorial excellence by Springer Nature in 2024, 2023, and 2021; (b) ranked number 2 in the Springer Math journals catalog for downloads in 2020; (c) ranked Q1 in Visual Arts by Scimago; (d) ranked top publication in social sciences/ architecture by Google Scholar between 2019-2020. Also, developing and maintaining strong relationships with the editors in chief, corresponding editors, authors, prospective authors, and external partners/ publishers Springer Nature and Birkhäuser.
 
 **Scientific Reviewer for the Nexus Network Journal (Springer), Architectural Science Review and the Journal of Asian Architecture and Building Engineering (Taylor & Francis), and Press Start (University of Glasgow)**
 2019-Present
+
+**Member of the Review Committee of the 42th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2024** 
+University of Cyprus, Cyprus
+2024
+
+**Member of the Review Committee of the 10th European Communication Conference (ECC), European Communication Research and Education Association (ECREA) 2024** 
+University of Ljubljana, Slovenia
+2024
 
 **Member of the Review Committee of the 41th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2023** 
 TU Graz, Austria
