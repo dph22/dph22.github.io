@@ -102,7 +102,7 @@ This ongoing project creatively explores how advances in machine learning and AI
 [...]
 
 
-**Nexus Network Journal: social media and new website, 2019-Present**
+**Nexus Network Journal: social media and website; Nexus Association new website and online strategy, 2019-Present**
 
 <img width="1432" alt="Website_project04" src="https://user-images.githubusercontent.com/51691883/167885647-f2bf5f73-d241-47ed-bfde-b283ba2312ce.png">
 
