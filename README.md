@@ -17,7 +17,7 @@
 <img width="1401" alt="DayNight_2023" src="https://user-images.githubusercontent.com/51691883/230138613-a48797ee-2a33-4331-8caf-3d53f5e52228.png">
 
 
-In the early stages of a collab project about the design of (hybrid) inclusive spaces, Inclusive Policy Lab, UNESCO, 2023.
+Developing a collaborative project about the design of (hybrid) inclusive spaces, Inclusive Policy Lab, UNESCO, 2023.
 
 [...]
 
