@@ -3,14 +3,24 @@
 **International experience:** I have been working in several research, teaching, and project management positions in Europe and Asia, for example at: the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR); the [University of the West of England](https://www.uwe.ac.uk) (UK); [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain); [Studio Fuksas - Rome](https://fuksas.com) (Italy); [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands); and the [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
 
 
-**Programming/ software:** Processing, Python, Java, C+, CSS, HTML; Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp); Nvivo, Miro, Canva, Wordpress, GIS and developing open data tools.
+**Programming/ software:** Processing, Python, R, Java, C+, CSS, HTML, MatLab; Tableau and Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp); Nvivo, Miro, Canva, Wordpress, GIS and developing open data tools.
 
-**Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Dutch, Catalan, Mandarin, Cantonese, and Japanese (Basic proficiency).
+**Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
 
 **Email:** < diogo_ph at proton dot me >
 
 
 ## Selected Projects / Events
+
+**ECo-lab AI: Ethics and Climate Action with Artificial Intelligence**
+
+<img width="1401" alt="DayNight_2023" src="https://user-images.githubusercontent.com/51691883/230138613-a48797ee-2a33-4331-8caf-3d53f5e52228.png">
+
+
+In the early stages of a collab project about the design of (hybrid) inclusive spaces, Inclusive Policy Lab, UNESCO, 2023.
+
+[...]
+
 
 **The Synthetic City conference 2023**
 
@@ -31,15 +41,6 @@ Invited talk in “AI art” event co-organised by the Turing Institute and City
 
 [...]
 
-
-**ECo-lab AI: Ethics and Climate Action with Artificial Intelligence**
-
-<img width="1401" alt="DayNight_2023" src="https://user-images.githubusercontent.com/51691883/230138613-a48797ee-2a33-4331-8caf-3d53f5e52228.png">
-
-
-In the early stages of a collab project about the design of (hybrid) inclusive spaces, Inclusive Policy Lab, UNESCO, 2023.
-
-[...]
 
 
 **ATU Fokus Citizen Science, Open Day for High-School Students at Aarhus University, Denmark: Wikipedia as Citizen Science, 2023**
