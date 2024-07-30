@@ -22,6 +22,36 @@ Developing a collaborative project about the design of (hybrid) inclusive spaces
 [...]
 
 
+**Nexus Network Journal: social media and website; plus Nexus Association/KWB new website and online strategy, 2019-Present**
+
+<img width="1432" alt="Website_project04" src="https://user-images.githubusercontent.com/51691883/167885647-f2bf5f73-d241-47ed-bfde-b283ba2312ce.png">
+
+
+Since 2019, I have also been the social media editor and member of the Editorial Board of the Nexus Network Journal (NNJ), in the fields of architecture and mathematics. Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been recognized: (a) as Q1 in Architecture since 2023 and Q1 in Visual Arts since 2011 by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) for Editorial Excellence in 2024, 2023 and 2021 by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) as number 2 in the Springer Math journals catalog, for downloads in 2020; and (d) a top publication in Social Sciences / Architecture by Google Scholar between 2019–2020.
+
+[...]
+
+
+**Augmenting Photography with Digital Tools, 2019-Present**
+
+![Website_project02](https://user-images.githubusercontent.com/51691883/164502863-18a87a4c-ea1e-470c-89e0-338b7eaa1e1e.jpg)
+
+
+This ongoing project creatively explores how advances in machine learning and AI can influence photography and creativity, particularly elusive effects as night light and snow, lensflares, artificial light, etc. 
+
+[...]
+
+
+**Searching for Neon Templates in Asia and Europe, 2019-Present**
+
+![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
+
+
+This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybrid templates of neon lighting with postcolonial visions. Presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), at the Universidad Iberoamericana, Puebla, Mexico, December 7-10, 2022.
+
+[...]
+
+
 **The Synthetic City conference 2023**
 
 ![logo_and_subtitle_conference_whitebackground](https://github.com/dph22/dph22.github.io/assets/51691883/3a0a623b-b740-4c4b-b206-f91b154091f1)
@@ -40,7 +70,6 @@ As YECREA representative, co-organisation with Scott Rogers (Birbeck, University
 Invited talk in “AI art” event co-organised by the Turing Institute and City, University of London, UK, 2023. 
 
 [...]
-
 
 
 **ATU Fokus Citizen Science, Open Day for High-School Students at Aarhus University, Denmark: Wikipedia as Citizen Science, 2023**
@@ -73,16 +102,6 @@ This ongoing project creatively explores how advances in augmented reality (AR) 
 [...]
 
 
-**Searching for Neon Templates in Asia and Europe, 2019-Present**
-
-![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
-
-
-This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybrid templates of neon lighting with postcolonial visions. Presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), at the Universidad Iberoamericana, Puebla, Mexico, December 7-10, 2022.
-
-[...]
-
-
 **Future Architecture Fellowship, 2021-2022**
 
 ![Website_project03](https://user-images.githubusercontent.com/51691883/164502959-8a1cb6f8-b1eb-4bd8-a602-3bc643a3124d.jpg)
@@ -92,25 +111,6 @@ Selected to participate in the [Creative Exchange 2021 Landscapes of Care](https
 
 [...]
 
-
-**Augmenting Photography with Digital Tools, 2019-Present**
-
-![Website_project02](https://user-images.githubusercontent.com/51691883/164502863-18a87a4c-ea1e-470c-89e0-338b7eaa1e1e.jpg)
-
-
-This ongoing project creatively explores how advances in machine learning and AI can influence photography and creativity, particularly elusive effects as night light and snow, lensflares, artificial light, etc. 
-
-[...]
-
-
-**Nexus Network Journal: social media and website; Nexus Association new website and online strategy, 2019-Present**
-
-<img width="1432" alt="Website_project04" src="https://user-images.githubusercontent.com/51691883/167885647-f2bf5f73-d241-47ed-bfde-b283ba2312ce.png">
-
-
-Since 2019, I have also been the social media editor and member of the Editorial Board of the Nexus Network Journal (NNJ), in the fields of architecture and mathematics. Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been: (a) Q1 in Visual Arts by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) recognized for Editorial Excellence by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) number 2 in the Springer Math journals catalog, for downloads in 2020; and (d) a top publication in Social Sciences / Architecture by Google Scholar.
-
-[...]
 
 **Visualizing Futures: UK Government Office for Science / Future of Cities Foresight Project, UK, 2015-1016**
 
@@ -176,8 +176,9 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 ## Key Publications and Conference Presentations
 
+Henriques, D.P. and Riha, D. (2024) "Searching for and reflecting on AI text-to-video landscapes as other" to be presented at the Video Game Cultures conference 2024, hosted by Birmingham City University, UK 12-14 September 2024. [More info](https://videogamecultures.org/about-vgc/).
 
-Henriques, D.P. (2023) “Envisioning a new synthetic city? A reflection on AI text-to-video generators, creativity, and our future urban visions” to be presented at The Synthetic City: Potentials, Politics and Everyday Life conference 2023. Dublin City University, Ireland, hosted by the ECREA Media, Cities and Space Section, 6-7 Sep, 2023, and to be published in the post-conference proceedings. [More info]( https://syntheticcity2023.com/programme/).
+Henriques, D.P. (2023) “Envisioning a new synthetic city? A reflection on AI text-to-video generators, creativity, and our future urban visions”, presented at The Synthetic City: Potentials, Politics and Everyday Life conference 2023. Dublin City University, Ireland, hosted by the ECREA Media, Cities and Space Section, 6-7 Sep, 2023, and to be published in the post-conference proceedings. [More info]( https://syntheticcity2023.com/programme/).
 
 Henriques, D.P. (2023) “'Nuclear Power? No Thanks!': the Smiling Sun logo and other graphic designs in the anti-nuclear global protests since the 1970s”, presented at the 2nd Colonial & Postcolonial Landscapes Congress, Calouste Gulbenkian Foundation, Lisbon, Portugal, January 18-20, 2023. [More info](https://dinamiacetiul.wixsite.com/congress-archwar). 
 
@@ -213,8 +214,6 @@ Overall, I have significant experience in bridging teaching, research and practi
 
 Moreover, at the University of the West of England (UWE), UK, I designed, developed and produced multiple learning and teaching materials, with a Linking Teaching & Research grant titled 'Visualising Sustainability in Design Studios,' for BSc Architecture, BEng Architecture and Environmental Engineering, and BA Architecture and Planning programmes. Furthermore, at the School of Creative Media, City University of Kong Kong, HK SAR, I launched an interdisciplinary research project linking art and artificial intelligence, including the development of curriculum for a new undergraduate course; with a grant from the Centre for Applied Computing and Interactive Media (ACIM). Finally, at the University of Lisbon, Portugal, I conducted user analysis of a visualisation prototype software, alongside colleagues from the Faculty of Computer Science, through usability workshops with students and the integration of research in a course module 'Computational Processes' for 2nd-year undergraduate students in Design, Interior Design, Architecture, and Urban Planning, at the School of Architecture. Following this research, I would also be part of the supervision team support for one student with a mobility disability (i.e. using a wheelchair in his daily life), for his MSc dissertation in Computer Science, at the Faculty of Computer Science of the University of Lisbon, Portugal.
 
-[Being Updated]
-
 ![AIlecture01_social_media01](https://user-images.githubusercontent.com/51691883/233054816-1faa163f-62ea-4601-a901-6b87d2578241.jpg)
 
 **Invited Guest Lecture AI and Text to Image models in the course "Structures" led by Assistant Professor Markus Matthias Hudert**
@@ -248,12 +247,12 @@ Faculty of Architecture, KU Leuven/Ghent, Belgium
 
 **Media, Cities and Space section representative, Young Scholars Network of the European Communication Research and Education Association (YECREA), since 2023**
 
-**Social Media Editor and Corresponding Editor of the Nexus Network Journal (NNJ), since 2019**
-
-Developing strategies that support open access and broad dissemination of research articles in the field of mathematics and architecture, particularly through the website and social media (Facebook, Twitter, LinkedIn, Instagram), with the following achievements since 2019: (a) recognized for editorial excellence by Springer Nature in 2024, 2023, and 2021; (b) ranked number 2 in the Springer Math journals catalog for downloads in 2020; (c) ranked Q1 in Visual Arts by Scimago; (d) ranked top publication in social sciences/ architecture by Google Scholar between 2019-2020. Also, developing and maintaining strong relationships with the editors in chief, corresponding editors, authors, prospective authors, and external partners/ publishers Springer Nature and Birkhäuser.
-
 **Scientific Reviewer for the Nexus Network Journal (Springer), Architectural Science Review and the Journal of Asian Architecture and Building Engineering (Taylor & Francis), and Press Start (University of Glasgow)**
 2019-Present
+
+**Member of the Scientific Committee of the Nexus: Architecture and Mathematics conference 2025** 
+Università degli Studi di Padova, Vicenza, Italy
+2025
 
 **Member of the Review Committee of the 42th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2024** 
 University of Cyprus, Cyprus
@@ -279,11 +278,11 @@ KU Leuven/Ghent, Belgium
 UIC, Barcelona
 2019 
 
-**Organising Committee Member for the Engineering & Environment Postgraduate Conference 2018** 
+**Organizing Committee Member for the Engineering & Environment Postgraduate Conference 2018** 
 Northumbria University at Newcastle, UK
 2018 
 
-**Assistant of the Organising Committee of the 2nd International Conference on Sustainable Intelligent Manufacturing (SIM) 2013**
+**Assistant of the Organizing Committee of the 2nd International Conference on Sustainable Intelligent Manufacturing (SIM) 2013**
 University of Lisbon, Portugal
 2013 
 
