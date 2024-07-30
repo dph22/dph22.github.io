@@ -1,4 +1,4 @@
-### Hi, my name is Diogo Pereira Henriques, and I'm a creative technologist, designer, researcher, educator, and learner; between East and West, North and South: born at 337 ppm  and always looking forward to global positive change! 
+### Hi, my name is Diogo Pereira Henriques, and I'm a consultant, creative technologist, designer, researcher, educator and learner; between East and West, North and South: born at 337 ppm  and always looking forward to global positive change! 
 
 **International experience:** I have been working in several research, teaching, and project management positions in Europe and Asia, for example at: the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR); the [University of the West of England](https://www.uwe.ac.uk) (UK); [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain); [Studio Fuksas - Rome](https://fuksas.com) (Italy); [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands); and the [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
 
