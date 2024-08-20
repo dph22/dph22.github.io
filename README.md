@@ -15,7 +15,7 @@
 
 **Multicultural Cities 01: Lisbon's Migration and Tourism Trends 2024-Present**
 
-More news about this exciting project on migration and tourism soon!
+More news about this exciting project on migration and tourism soon; we're preparing a database on Git!
 
 [...]
 
@@ -25,6 +25,7 @@ More news about this exciting project on migration and tourism soon!
 ![Whales_azores](https://github.com/user-attachments/assets/318cb9b1-3741-4742-a552-68521f59e73e)
 
 [Photo by Aurora Ribeiro, Azores]
+
 Launching the new website in August!
 
 [...]
