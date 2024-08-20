@@ -22,6 +22,8 @@ More news about this soon!
 
 **Dreaming with Whales 2023-Present**
 
+![Whales_azores](https://github.com/user-attachments/assets/318cb9b1-3741-4742-a552-68521f59e73e)
+
 Launching the new website in August!
 
 [...]
