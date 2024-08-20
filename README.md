@@ -12,6 +12,21 @@
 
 ## Selected Projects / Events
 
+
+**Multicultural Cities 01: Lisbon's Migration and Tourism Trends 2024-Present**
+
+More news about this soon!
+
+[...]
+
+
+**Dreaming with Whales 2023-Present**
+
+Launching the new website in August!
+
+[...]
+
+
 **ECo-lab AI: Ethics and Climate Action with Artificial Intelligence 2023-Present**
 
 <img width="1401" alt="DayNight_2023" src="https://user-images.githubusercontent.com/51691883/230138613-a48797ee-2a33-4331-8caf-3d53f5e52228.png">
