@@ -15,6 +15,8 @@
 
 **Multicultural Cities 01: Lisbon's Migration and Tourism Trends 2024-Present**
 
+<img width="664" alt="Migration_02" src="https://github.com/user-attachments/assets/8fb21df0-9858-4fbc-87ce-f651380ca765">
+
 More news about this exciting project on migration and tourism soon; we're preparing a database on Git!
 
 [...]
