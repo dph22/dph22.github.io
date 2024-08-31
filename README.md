@@ -199,7 +199,7 @@ KAF is dedicated to conversations about the New European Bauhaus and the Europea
 
 ## Key Publications and Conference Presentations
 
-Henriques, D.P. and Riha, D. (2024) "Searching for and reflecting on AI text-to-video landscapes as other" to be presented at the Video Game Cultures conference 2024, hosted by Birmingham City University, UK 12-14 September 2024. [More info](https://videogamecultures.org/about-vgc/).
+Riha, D. and Henriques, D.P. (2024) "Searching for and reflecting on AI text-to-video landscapes as other" to be presented at the Video Game Cultures conference 2024, hosted by Birmingham City University, UK 12-14 September 2024. [More info](https://videogamecultures.org/about-vgc/).
 
 Henriques, D.P. (2023) “Envisioning a new synthetic city? A reflection on AI text-to-video generators, creativity, and our future urban visions”, presented at The Synthetic City: Potentials, Politics and Everyday Life conference 2023. Dublin City University, Ireland, hosted by the ECREA Media, Cities and Space Section, 6-7 Sep, 2023, and to be published in the post-conference proceedings. [More info]( https://syntheticcity2023.com/programme/).
 
@@ -275,7 +275,11 @@ Faculty of Architecture, KU Leuven/Ghent, Belgium
 
 **Member of the Scientific Committee of the Nexus: Architecture and Mathematics conference 2025** 
 Università degli Studi di Padova, Vicenza, Italy
-2025
+2024-2025
+
+**Member of the Review Committee of the 30th Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) Conference 2025** 
+University of Tokyo, Japan
+2024-2025
 
 **Member of the Review Committee of the 42th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2024** 
 University of Cyprus, Cyprus
