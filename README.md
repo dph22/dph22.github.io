@@ -30,7 +30,7 @@ More news about this exciting project on migration and tourism soon; we're prepa
 
 [Photo by Aurora Ribeiro, Azores]
 
-Launching the new website in August!
+
 
 [...]
 
