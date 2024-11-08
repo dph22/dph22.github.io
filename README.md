@@ -277,10 +277,6 @@ Faculty of Architecture, KU Leuven/Ghent, Belgium
 Università degli Studi di Padova, Vicenza, Italy
 2024-2025
 
-**Member of the Review Committee of the 30th Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) Conference 2025** 
-University of Tokyo, Japan
-2024-2025
-
 **Member of the Review Committee of the 42th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2024** 
 University of Cyprus, Cyprus
 2024
