@@ -1,5 +1,7 @@
 ### Hi, my name is Diogo Pereira Henriques, and I'm a consultant, creative technologist, designer, researcher, educator and learner; between East and West, North and South: born at 337 ppm  and always looking forward to global positive change! 
 
+**Freelance/Independent Researcher** Currently, I am an expert At UNESCO's Inclusive Policy Lab [UNESCO's Inclusive Policy Lab](https://en.unesco.org/inclusivepolicylab/users/diogo-henriques), communications officer for [ECREA's Media Cities and Space Section](https://www.ecrea.eu), and incoming Co-chair/Committee of the Implementation Working Group of the Open Data Charter. 
+
 **International experience:** I have been working in several research, teaching, and project management positions in Europe and Asia, for example at: the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR); the [University of the West of England](https://www.uwe.ac.uk) (UK); [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain); [Studio Fuksas - Rome](https://fuksas.com) (Italy); [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands); and the [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
 
 
@@ -11,6 +13,13 @@
 
 
 ## Selected Projects / Events
+
+
+**VR + AI Do It Yourself (DYI) Workshop: Digital Literacies 2025- More News Soon!** 
+
+<img width="1179" alt="VR_DIY_2025" src="https://github.com/user-attachments/assets/effc7227-8fff-48c8-b57f-412bf457414f" />
+
+[...]
 
 
 **Multicultural Cities 01: Lisbon's Migration and Tourism Trends 2023-Present**
@@ -45,12 +54,22 @@ Developing a collaborative project about the design of (hybrid) inclusive spaces
 [...]
 
 
-**Nexus Network Journal: social media and website; plus Nexus Association/KWB new website and online strategy, 2019-Present**
+**Nexus Network Journal: social media and Nexus Association new website and online strategy, 2019-Present**
 
 <img width="1432" alt="Website_project04" src="https://user-images.githubusercontent.com/51691883/167885647-f2bf5f73-d241-47ed-bfde-b283ba2312ce.png">
 
 
-Since 2019, I have also been the social media editor and member of the Editorial Board of the Nexus Network Journal (NNJ), in the fields of architecture and mathematics. Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been recognized: (a) as Q1 in Architecture since 2023 and Q1 in Visual Arts since 2011 by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) for Editorial Excellence in 2024, 2023 and 2021 by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) as number 2 in the Springer Math journals catalog, for downloads in 2020; and (d) a top publication in Social Sciences / Architecture by Google Scholar between 2019–2020.
+Since 2019, I have also been the social media editor and member of the Editorial Board of the Nexus Network Journal (NNJ), in the fields of architecture and mathematics. Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been recognized: (a) as Q1 in Architecture since 2023 and Q1 in Visual Arts since 2011 by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) for Editorial Excellence in 2024, 2023 and 2021 by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) as number 2 in the Springer Math journals catalogue, for downloads in 2020; and (d) a top publication in Social Sciences / Architecture by Google Scholar between 2019–2020.
+
+[...]
+
+
+**Searching for Neon Templates in Asia and Europe, 2019-Present**
+
+![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
+
+
+This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybrid templates of neon lighting with postcolonial visions. A first iteration of this STS research project was presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), at the Universidad Iberoamericana, Puebla, Mexico, December 7-10, 2022.
 
 [...]
 
@@ -65,22 +84,12 @@ This ongoing project creatively explores how advances in machine learning and AI
 [...]
 
 
-**Searching for Neon Templates in Asia and Europe, 2019-Present**
-
-![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
-
-
-This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybrid templates of neon lighting with postcolonial visions. Presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), at the Universidad Iberoamericana, Puebla, Mexico, December 7-10, 2022.
-
-[...]
-
-
 **The Synthetic City conference 2023**
 
 ![logo_and_subtitle_conference_whitebackground](https://github.com/dph22/dph22.github.io/assets/51691883/3a0a623b-b740-4c4b-b206-f91b154091f1)
 
 
-As YECREA representative, co-organisation with Scott Rogers (Birbeck, University of London), Marcos Dias (Dublin City University), and Lou Therese Brandner (University of Tübingen), of the [The Synthetic City international conference](https://syntheticcity2023.com), hosted by the ECREA Media, Cities and Space Section, at Dublin City University, Ireland, 2023. 
+As YECREA representative, co-organization with Scott Rogers (Birkbeck, University of London), Marcos Dias (Dublin City University), and Lou Therese Brandner (University of Tübingen), of the [The Synthetic City international conference](https://syntheticcity2023.com), hosted by the ECREA Media, Cities and Space Section, at Dublin City University, Ireland, 2023. 
 
 [...]
 
@@ -90,7 +99,7 @@ As YECREA representative, co-organisation with Scott Rogers (Birbeck, University
 <img width="658" alt="AITURINGCITY_portfolio00" src="https://github.com/dph22/dph22.github.io/assets/51691883/8b880337-93c1-4318-a879-95b00a842ec6">
 
 
-Invited talk in “AI art” event co-organised by the Turing Institute and City, University of London, UK, 2023. 
+Invited talk in “AI art” event co-organized by the Turing Institute and City, University of London, UK, 2023. 
 
 [...]
 
