@@ -7,7 +7,7 @@
 
 **Programming/ software:** Processing, Python, R, Java, C+, CSS, HTML, MatLab; Tableau and Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp); Nvivo, Miro, Canva, Wordpress, GIS and developing open data tools.
 
-**Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Mandarin, Cantonese, and Japanese (Basic proficiency).
+**Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Dutch, Mandarin, Cantonese, and Japanese (Basic proficiency).
 
 **Email:** < diogo_ph at proton dot me >
 
