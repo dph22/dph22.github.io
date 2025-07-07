@@ -179,36 +179,11 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 [...]
 
 
-## Recent Webinars / Invited Talks 
-
-### 2023
-
-[WASP-HS "AI, Education and Children"](https://wasp-hs.org/events/ai-education-and-children/), invited participant in the online event and roundtable "How Can We Ensure Algorithmic Fairness to Protect Children?", organised by the Wallenberg Artificial Intelligence, Autonomous Systems and Software Program, Umeå University, Sweden, April 19, 2023.
-
-[3rd Interoperable Europe SEMIC workshop on Personal Data Spaces](https://joinup.ec.europa.eu/collection/semic-support-centre/event/third-workshop-personal-data-spaces), invited participant in the (in-person) workshop to co-create the vision and roadmap 2023-2025 for Interoperable Europe, organised by PwC and supported by the European Commission, Ghent, Belgium, March 31, 2023.
-
-[Bad Game Arcade: A Symposium all about Educational Games](https://www.badgamearcade.ca/), invited panelist in the 'Super-Effective Facilitation: How do we reach the right audience?' hybrid panel, organised by the Technoculture, Art and Games Lab, Milieux Institute for Arts, Culture and Technology, Concordia University, Montreal, Canada, January 23-27, 2023.
-
-
-### 2022
-
-[Art Entangled](https://www.eventbrite.ie/e/art-entangled-tickets-316620830427), invited panelist in 'World Quantum Day 2022 webinar', initiated by CERN and locally co-organised by CONNECT Centre Trinity College Dublin, the University of Dublin, Ireland, Faculty of Arts, Aarhus University, Denmark, and Center for Quantum Networks, University of Arizona, USA, April 14, 2022.
-
-[Creativity and Math as a Common Language](https://www.math.ksu.edu/research/artmathfiles/s22g_diogo_pereira_henriques.html), invited (online) talk in the Art and Math Seminar Spring 2022, organised by the Department of Mathematics at Kansas State University, USA, February 24, 2022.
-
-
-### 2021
-
-[Participation, Participation, Participation](https://kosovoarchitecture.org/diogo-pereira-henriques-lecture-at-kaf-2021/), invited (online) talk in the Kosovo Architecture Festival (KAF) 2021, organised under the theme of Alter-Nation by the Kosovo Architecture Foundation in partnership with the Future Architecture Platform, held online on September 28, 2021. 
-
-KAF is dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Programme and co-funded by the [Creative Europe Programme of the European Union](https://culture.ec.europa.eu/creative-europe).
-
-[...]
-
-
 ## Key Publications and Conference Presentations
 
-Riha, D. and Henriques, D.P. (2024) "Searching for and reflecting on AI text-to-video landscapes as other" to be presented at the Video Game Cultures conference 2024, hosted by Birmingham City University, UK 12-14 September 2024. [More info](https://videogamecultures.org/about-vgc/).
+Riha, D. and Henriques, D.P. (2025) "Environmental storytelling and planetary thinking in Prague’s video game scene: From storytellers and virtual environments to data sets and chatbots" to be presented at the Video Game Cultures conference 2025, hosted by Charles University in Prague, Czech Republic, 10-12 September 2025.
+
+Riha, D. and Henriques, D.P. (2024) "Searching for and reflecting on AI text-to-video landscapes as other" presented at the Video Game Cultures conference 2024, hosted by Birmingham City University, UK 12-14 September 2024. [More info](https://videogamecultures.org/about-vgc/).
 
 Henriques, D.P. (2023) “Envisioning a new synthetic city? A reflection on AI text-to-video generators, creativity, and our future urban visions”, presented at The Synthetic City: Potentials, Politics and Everyday Life conference 2023. Dublin City University, Ireland, hosted by the ECREA Media, Cities and Space Section, 6-7 Sep, 2023, and to be published in the post-conference proceedings. [More info]( https://syntheticcity2023.com/programme/).
 
@@ -236,6 +211,33 @@ Henriques, D.P. (2013) “Space time information on display: smart devices and s
 
 
 Read more on [Scholar](https://scholar.google.com/citations?user=ZaERkbEAAAAJ&hl=en).
+
+[...]
+
+
+## Recent Webinars / Invited Talks 
+
+### 2023
+
+[WASP-HS "AI, Education and Children"](https://wasp-hs.org/events/ai-education-and-children/), invited participant in the online event and roundtable "How Can We Ensure Algorithmic Fairness to Protect Children?", organised by the Wallenberg Artificial Intelligence, Autonomous Systems and Software Program, Umeå University, Sweden, April 19, 2023.
+
+[3rd Interoperable Europe SEMIC workshop on Personal Data Spaces](https://joinup.ec.europa.eu/collection/semic-support-centre/event/third-workshop-personal-data-spaces), invited participant in the (in-person) workshop to co-create the vision and roadmap 2023-2025 for Interoperable Europe, organised by PwC and supported by the European Commission, Ghent, Belgium, March 31, 2023.
+
+[Bad Game Arcade: A Symposium all about Educational Games](https://www.badgamearcade.ca/), invited panelist in the 'Super-Effective Facilitation: How do we reach the right audience?' hybrid panel, organised by the Technoculture, Art and Games Lab, Milieux Institute for Arts, Culture and Technology, Concordia University, Montreal, Canada, January 23-27, 2023.
+
+
+### 2022
+
+[Art Entangled](https://www.eventbrite.ie/e/art-entangled-tickets-316620830427), invited panelist in 'World Quantum Day 2022 webinar', initiated by CERN and locally co-organised by CONNECT Centre Trinity College Dublin, the University of Dublin, Ireland, Faculty of Arts, Aarhus University, Denmark, and Center for Quantum Networks, University of Arizona, USA, April 14, 2022.
+
+[Creativity and Math as a Common Language](https://www.math.ksu.edu/research/artmathfiles/s22g_diogo_pereira_henriques.html), invited (online) talk in the Art and Math Seminar Spring 2022, organised by the Department of Mathematics at Kansas State University, USA, February 24, 2022.
+
+
+### 2021
+
+[Participation, Participation, Participation](https://kosovoarchitecture.org/diogo-pereira-henriques-lecture-at-kaf-2021/), invited (online) talk in the Kosovo Architecture Festival (KAF) 2021, organised under the theme of Alter-Nation by the Kosovo Architecture Foundation in partnership with the Future Architecture Platform, held online on September 28, 2021. 
+
+KAF is dedicated to conversations about the New European Bauhaus and the European Green Deal, under the European Architecture Programme and co-funded by the [Creative Europe Programme of the European Union](https://culture.ec.europa.eu/creative-europe).
 
 [...]
 
