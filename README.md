@@ -15,14 +15,14 @@
 ## Selected Projects / Events
 
 
-**VR + AI Do It Yourself (DYI) Workshop: Digital Literacies 2025- More News Soon!** 
+**VR + AI Do It Yourself (DYI) Workshop: Digital Literacies 2025-Ongoing** 
 
 <img width="1179" alt="VR_DIY_2025" src="https://github.com/user-attachments/assets/effc7227-8fff-48c8-b57f-412bf457414f" />
 
 [...]
 
 
-**Multicultural Cities 01: Lisbon's Migration and Tourism Trends 2023-Present**
+**Multicultural Cities 01: Lisbon's Migration and Tourism Trends 2023-Ongoing**
 
 <img width="664" alt="Migration_02" src="https://github.com/user-attachments/assets/8fb21df0-9858-4fbc-87ce-f651380ca765">
 
@@ -32,7 +32,7 @@
 [...]
 
 
-**Dreaming with Whales 2023-Present**
+**Dreaming with Whales 2023-Ongoing**
 
 ![Whales_azores](https://github.com/user-attachments/assets/318cb9b1-3741-4742-a552-68521f59e73e)
 
@@ -44,7 +44,7 @@
 [...]
 
 
-**ECo-lab AI: Ethics and Climate Action with Artificial Intelligence 2023-Present**
+**ECo-lab AI: Ethics and Climate Action with Artificial Intelligence 2023-Ongoing**
 
 <img width="1401" alt="DayNight_2023" src="https://user-images.githubusercontent.com/51691883/230138613-a48797ee-2a33-4331-8caf-3d53f5e52228.png">
 
@@ -54,7 +54,7 @@ Developing a collaborative project about the design of (hybrid) inclusive spaces
 [...]
 
 
-**Nexus Network Journal: social media and Nexus Association new website and online strategy, 2019-Present**
+**Nexus Network Journal: social media and Nexus Association new website and online strategy, 2019-Ongoing**
 
 <img width="1432" alt="Website_project04" src="https://user-images.githubusercontent.com/51691883/167885647-f2bf5f73-d241-47ed-bfde-b283ba2312ce.png">
 
@@ -64,7 +64,7 @@ Since 2019, I have also been the social media editor and member of the Editorial
 [...]
 
 
-**Searching for Neon Templates in Asia and Europe, 2019-Present**
+**Searching for Neon Templates in Asia and Europe, 2019-Ongoing**
 
 ![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
 
@@ -74,7 +74,7 @@ This ongoing project examines how the creation and development of neon lighting 
 [...]
 
 
-**Augmenting Photography with Digital Tools, 2019-Present**
+**Augmenting Photography with Digital Tools, 2019-Ongoing**
 
 ![Website_project02](https://user-images.githubusercontent.com/51691883/164502863-18a87a4c-ea1e-470c-89e0-338b7eaa1e1e.jpg)
 
@@ -124,7 +124,7 @@ Experimental, collaborative, and open source software project with data scientis
 [...]
 
 
-**3D Media Objects: Augmented reality on Aarhus University campus, Aarhus, Denmark, 2022-2023**
+**3D Media Objects: Augmented reality (AR/XR) on Aarhus University campus, Aarhus, Denmark, 2022-2023**
 
 ![AUcampus_3DMediaObjects](https://user-images.githubusercontent.com/51691883/183379226-d1f4185b-880a-4f5c-869a-c1ac00d5d3cf.jpg)
 
@@ -215,15 +215,20 @@ Read more on [Scholar](https://scholar.google.com/citations?user=ZaERkbEAAAAJ&hl
 [...]
 
 
-## Recent Webinars / Invited Talks 
+## Recent Webinars/Invited Talks 
+
+### 2025
+
+"Data created by non-governmental actors: challenges and opportunities in data re-use", Implementation Working Group meeting organized by the Open Data Charter, Buenos Aires, Argentina, 22 July, 2025.
+
 
 ### 2023
 
-[WASP-HS "AI, Education and Children"](https://wasp-hs.org/events/ai-education-and-children/), invited participant in the online event and roundtable "How Can We Ensure Algorithmic Fairness to Protect Children?", organised by the Wallenberg Artificial Intelligence, Autonomous Systems and Software Program, Umeå University, Sweden, April 19, 2023.
+[WASP-HS "AI, Education and Children"](https://wasp-hs.org/events/ai-education-and-children/), invited participant in the online event and roundtable "How Can We Ensure Algorithmic Fairness to Protect Children?", organized by the Wallenberg Artificial Intelligence, Autonomous Systems and Software Program, Umeå University, Sweden, April 19, 2023.
 
-[3rd Interoperable Europe SEMIC workshop on Personal Data Spaces](https://joinup.ec.europa.eu/collection/semic-support-centre/event/third-workshop-personal-data-spaces), invited participant in the (in-person) workshop to co-create the vision and roadmap 2023-2025 for Interoperable Europe, organised by PwC and supported by the European Commission, Ghent, Belgium, March 31, 2023.
+[3rd Interoperable Europe SEMIC workshop on Personal Data Spaces](https://joinup.ec.europa.eu/collection/semic-support-centre/event/third-workshop-personal-data-spaces), invited participant in the (in-person) workshop to co-create the vision and roadmap 2023-2025 for Interoperable Europe, organized by PwC and supported by the European Commission, Ghent, Belgium, March 31, 2023.
 
-[Bad Game Arcade: A Symposium all about Educational Games](https://www.badgamearcade.ca/), invited panelist in the 'Super-Effective Facilitation: How do we reach the right audience?' hybrid panel, organised by the Technoculture, Art and Games Lab, Milieux Institute for Arts, Culture and Technology, Concordia University, Montreal, Canada, January 23-27, 2023.
+[Bad Game Arcade: A Symposium all about Educational Games](https://www.badgamearcade.ca/), invited panelist in the 'Super-Effective Facilitation: How do we reach the right audience?' hybrid panel, organized by the Technoculture, Art and Games Lab, Milieux Institute for Arts, Culture and Technology, Concordia University, Montreal, Canada, January 23-27, 2023.
 
 
 ### 2022
