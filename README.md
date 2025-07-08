@@ -5,7 +5,7 @@
 **International experience:** I have been working in several research, teaching, and project management positions in Europe and Asia, for example at: the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR); the [University of the West of England](https://www.uwe.ac.uk) (UK); [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain); [Studio Fuksas - Rome](https://fuksas.com) (Italy); [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands); and the [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
 
 
-**Programming/ software:** Processing, Python, R, Java, C+, CSS, HTML, MatLab; Tableau and Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Blender, AutoCAD, 3ds Max, SketchUp); Nvivo, Miro, Canva, Wordpress, GIS and developing open data tools.
+**Programming/ software:** Processing, Python, R, Java, C+, CSS, HTML, MatLab; Tableau and Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Unity, Blender, AutoCAD, 3ds Max, SketchUp); Nvivo, Miro, Canva, Wordpress, GIS, and interest in further developing VR and open data tools.
 
 **Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Dutch, Mandarin, Cantonese, and Japanese (Basic proficiency).
 
