@@ -22,7 +22,7 @@
 
 <img width="1179" alt="VR_DIY_2025" src="https://github.com/user-attachments/assets/effc7227-8fff-48c8-b57f-412bf457414f" />
 
-<img width="1429" height="689" alt="VR_workshop01" src="https://github.com/user-attachments/assets/a7412104-b6ab-4992-8eb2-d5253dca6a54" />
+<img width="1179" alt="VR_workshop01" src="https://github.com/user-attachments/assets/a7412104-b6ab-4992-8eb2-d5253dca6a54" />
 
 [...]
 
