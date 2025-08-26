@@ -1,6 +1,6 @@
 ### Hi, my name is Diogo Pereira Henriques, and I'm a consultant, creative technologist, designer, researcher, educator and learner; between East and West, North and South: born at 337 ppm  and always looking forward to global positive change! 
 
-**LATEST NEWS:** (1) Webinar/Invited Talk in the IWG meeting Open Data Charter, Buenos Aires, Argentina, 22 July, 2025; (2) New project VR + AI Do It Yourself (DYI) Workshops; (3) Conference paper with Daniel Riha, "Environmental storytelling and planetary thinking in Prague’s video game scene" to be presented at the Video Game Cultures conference 2025, in Charles University in Prague, Czech Republic, 10-12 September 2025; (4) Book chapter with Michael Ostwald for the 2nd  Edition of the Handbook of the Mathematics of the Arts and Sciences, to be published by Springer in 2026.
+**LATEST NEWS:** (1) Webinar/Invited Talk in the IWG meeting Open Data Charter, online, 22 July, 2025; (2) Conference paper with Daniel Riha, "Environmental storytelling and planetary thinking in Prague’s video game scene" to be presented at the Video Game Cultures conference 2025, in Charles University in Prague, Czech Republic, 10-12 September 2025; (3) Book chapter with Michael Ostwald for the 2nd  Edition of the Handbook of the Mathematics of the Arts and Sciences, to be published by Springer in 2026.
 
 
 **Freelance/Independent Researcher:** Currently, I'm an expert at [UNESCO's Inclusive Policy Lab](https://en.unesco.org/inclusivepolicylab/), communications officer for [ECREA's Media Cities and Space Section](https://www.ecrea.eu), and incoming Co-chair/Committee of the Implementation Working Group of the [Open Data Charter](https://opendatacharter.org).
@@ -17,14 +17,6 @@
 
 ## Selected Projects / Events
 
-
-**VR + AI Do It Yourself (DYI) Workshop: Digital Literacies 2025-Ongoing** 
-
-<img width="1179" alt="VR_DIY_2025" src="https://github.com/user-attachments/assets/effc7227-8fff-48c8-b57f-412bf457414f" />
-
-<img width="1179" alt="VR_workshop01" src="https://github.com/user-attachments/assets/a7412104-b6ab-4992-8eb2-d5253dca6a54" />
-
-[...]
 
 
 **Multicultural Cities 01: Lisbon's Migration and Tourism Trends 2023-Ongoing**
