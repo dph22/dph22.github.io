@@ -281,14 +281,24 @@ Faculty of Architecture, KU Leuven/Ghent, Belgium
 
 ## Service 
 
-**Media, Cities and Space section representative, Young Scholars Network of the European Communication Research and Education Association (YECREA), since 2023**
+**Elected Communications Officer in the Media, Cities and Space section, European Communication Research and Education Association (ECREA), 2024-Present**
 
-**Scientific Reviewer for the Nexus Network Journal (Springer), Architectural Science Review and the Journal of Asian Architecture and Building Engineering (Taylor & Francis), and Press Start (University of Glasgow)**
-2019-Present
+
+**Scientific Reviewer for the Nexus Network Journal (Springer), Architectural Science Review and the Journal of Asian Architecture and Building Engineering (Taylor & Francis), among others 2019-Present**
+
+**Member of the Review Committee of 43th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2026** 
+Technische Hochschule Lübeck, Germany
+2026
+
+**Member of the Review Committee of 43th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2025** 
+Middle East Technical University, Ankara, Turkey
+2025
 
 **Member of the Scientific Committee of the Nexus: Architecture and Mathematics conference 2025** 
 Università degli Studi di Padova, Vicenza, Italy
 2024-2025
+
+**Media, Cities and Space section representative, Young Scholars Network of the European Communication Research and Education Association (YECREA), 2023-2024**
 
 **Member of the Review Committee of the 42th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2024** 
 University of Cyprus, Cyprus
