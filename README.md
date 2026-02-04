@@ -283,12 +283,19 @@ Faculty of Architecture, KU Leuven/Ghent, Belgium
 
 **Elected Communications Officer in the Media, Cities and Space section, European Communication Research and Education Association (ECREA), 2024-Present**
 
-
 **Scientific Reviewer for the Nexus Network Journal (Springer), Architectural Science Review and the Journal of Asian Architecture and Building Engineering (Taylor & Francis), among others 2019-Present**
 
-**Member of the Review Committee of 43th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2026** 
+**Member of the Review Committee of the 44th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2026** 
 Technische Hochschule Lübeck, Germany
 2026
+
+**Member of the Review Committee of the 11th European Communication Conference (ECC), European Communication Research and Education Association (ECREA) 2026** 
+Masaryk University, Brno, Czech Republic
+2026
+
+**Member of the Review Committee of the 28th International Conference on Human-Computer Interaction HCI Iinternational 2026**
+Montreal Convention Centre, Montreal, Canada
+2025-2026
 
 **Member of the Review Committee of 43th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2025** 
 Middle East Technical University, Ankara, Turkey
@@ -314,7 +321,7 @@ TU Graz, Austria
 
 **Member of the Review Committee of the CAAD Futures Conference 2023** 
 TU Delft, the Netherlands
-2023
+2022-2023
 
 **Member of the Review Committee of the 40th Education and Research in Computer Aided Architectural Design in Europe (eCAADe) Conference 2022** 
 KU Leuven/Ghent, Belgium
