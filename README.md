@@ -1,6 +1,6 @@
 ### Hi, my name is Diogo Pereira Henriques, and I'm a consultant, creative technologist, designer, researcher, educator and learner; between East and West, North and South: born at 337 ppm  and always looking forward to global positive change! 
 
-**LATEST NEWS:** (1) "Generative AI, architecture, and mathematics: Supporting the sustainable development goals", a book chapter co-authored with Michael Ostwald (University of New South Wales, Sydney) for the 1st Edition of the Handbook of the Mathematics for Societal Challenges, to be published by Springer in 2026; (2) "The Synthetic City”, a Special Dossier for Mediapolis: A Journal of Cities and Culture, with guest editors S. Rodgers, H. Atteneder, L. Brandner, M. Dias, D. P. Henriques, and S. Trentham-Black, from the ECREA Media, Cities and Space Section, to be published in 2026; (3) Invited member of the Scientific Review Committee for the Education and Research in Computer Aided Architectural Design in Europe (eCAADe), hosted by Technische Hochschule Lübeck, Germany, 7–11 September 2026.
+**LATEST NEWS:** (1) "Generative AI, architecture, and mathematics: Supporting the sustainable development goals", a book chapter co-authored with Michael Ostwald (University of New South Wales, Sydney) for the 1st Edition of the Handbook of the Mathematics for Societal Challenges, to be published by Springer in 2026; (2) "The Synthetic City”, a Special Dossier for Mediapolis: A Journal of Cities and Culture, with guest editors S. Rodgers, H. Atteneder, L. Brandner, M. Dias, D. P. Henriques, and S. Trentham-Black, from the ECREA Media, Cities and Space Section, to be published in 2026; (3) Invited reviewer for the 28th HCI International Conference, HCII 2026, Montreal, QC, Canada, July 26–31 2026; (4) Invited member of the Scientific Review Committee for the Education and Research in Computer Aided Architectural Design in Europe (eCAADe), hosted by Technische Hochschule Lübeck, Germany, 7–11 September 2026.
 
 
 **Freelance/Independent Researcher:** Currently, I'm an expert at [UNESCO's Inclusive Policy Lab](https://en.unesco.org/inclusivepolicylab/), communications officer for [ECREA's Media Cities and Space Section](https://www.ecrea.eu), and Co-chair/Member of the Steering Committee of the Implementation Working Group of the [Open Data Charter](https://opendatacharter.org).
@@ -15,8 +15,10 @@
 **Email:** < diogo_ph at proton dot me >
 
 
-## Selected Projects / Events
+[...]
 
+
+## Selected Projects / Events
 
 
 **Multicultural Cities 01: Lisbon's Migration and Tourism Trends 2023-Ongoing**
@@ -26,15 +28,17 @@
 
 [...]
 
-**Environmental storytelling and planetary thinking in Prague’s video game scene 2023-Ongoing**
+**Environmental storytelling and planetary thinking in Prague’s video game scene 2023-Ongoing (with Daniel Riha, Charles University of Prague**
 
 <img width="664" alt="Prague_videogames_2025" src="https://github.com/user-attachments/assets/254b4aae-6ebb-4428-b140-9fdf8bd25fe3">
 
 
+[...]
+
 
 **Nexus Network Journal: social media, data visualizations and online strategy, 2019-Ongoing**
 
-<img width="664" alt="NetworkAnalysis_2025" src="https://github.com/user-attachments/assets/e57c84f5-d7ba-4e2a-840c-fccbcbd0f68c" />
+<img width="664" hight="664" alt="NetworkAnalysis_2025" src="https://github.com/user-attachments/assets/e57c84f5-d7ba-4e2a-840c-fccbcbd0f68c" />
 
 
 Since 2019, I have been the social media editor and member of the Editorial Board of the Nexus Network Journal (NNJ), in the fields of architecture and mathematics. Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been recognized: (a) as Q1 in Architecture in 2025 and 2023, and consistently as Q1 in Visual and Performing Arts since 2011 by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) for Editorial Excellence in 2024, 2023 and 2021 by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) as number 2 in the Springer Math journals catalogue, for downloads in 2020; and (d) a top publication in Social Sciences / Architecture by Google Scholar between 2019–2020.
