@@ -29,7 +29,7 @@
 
 **Nexus Network Journal: social media, data visualizations and online strategy, 2019-Ongoing**
 
-<img width="1080" height="894" alt="NetworkAnalysis_01" src="https://github.com/user-attachments/assets/e57c84f5-d7ba-4e2a-840c-fccbcbd0f68c" />
+<img width="664" alt="NetworkAnalysis_01" src="https://github.com/user-attachments/assets/e57c84f5-d7ba-4e2a-840c-fccbcbd0f68c" />
 
 
 Since 2019, I have been the social media editor and member of the Editorial Board of the Nexus Network Journal (NNJ), in the fields of architecture and mathematics. Published in print by Birkhäuser and online at [Springer](https://www.springer.com/journal/4), the NNJ has been recognized: (a) as Q1 in Architecture in 2025 and 2023, and consistently as Q1 in Visual and Performing Arts since 2011 by [Scimago](https://www.scimagojr.com/journalsearch.php?q=145103&tip=sid); (b) for Editorial Excellence in 2024, 2023 and 2021 by [Springer Nature](https://www.springer.com/journal/4/updates/19019390); and (c) as number 2 in the Springer Math journals catalogue, for downloads in 2020; and (d) a top publication in Social Sciences / Architecture by Google Scholar between 2019–2020.
