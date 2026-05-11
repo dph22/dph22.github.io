@@ -73,7 +73,7 @@ Developing a collaborative project about the design of (hybrid) inclusive spaces
 ![Searching for Neon Templates in Asia and Europe](https://user-images.githubusercontent.com/51691883/164209845-91eeb1b0-e9b5-4276-b82f-2e985d3b774d.jpg)
 
 
-This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybrid templates of neon lighting with postcolonial visions. A first iteration of this STS research project was presented at the [4S-ESOCITE conference 2022](https://www.4sonline.org/131-templates-plantillas-modelos/), at the Universidad Iberoamericana, Puebla, Mexico, December 7-10, 2022.
+This ongoing project examines how the creation and development of neon lighting have impacted the cultural, social, environmental, and future imaginaries of multicultural cities in Asia and Europe. It also creatively explores how advances in machine learning and AI can augment visual and hybrid templates of neon lighting with postcolonial visions. A first iteration of this STS research project was presented at the [4S-ESOCITE conference 2022](https://4sonline.org/4s_2022_cholula.php), at the Universidad Iberoamericana, Puebla, Mexico, December 7-10, 2022.
 
 [...]
 
@@ -100,7 +100,7 @@ As YECREA representative, co-organization with Scott Rogers (Birkbeck, Universit
 
 **How can AI art enhance diversity and inclusion? 2023**
 
-<img width="658" alt="AITURINGCITY_portfolio00" src="https://github.com/dph22/dph22.github.io/assets/51691883/8b880337-93c1-4318-a879-95b00a842ec6">
+<img width="658" alt="UNESCO_2025" src="https://github.com/dph22/dph22.github.io/assets/51691883/8b880337-93c1-4318-a879-95b00a842ec6">
 
 
 Invited talk in “AI art” event co-organized by the Turing Institute and City, University of London, UK, 2023. 
