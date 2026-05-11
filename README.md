@@ -3,14 +3,14 @@
 **LATEST NEWS:** (1) "Generative AI, architecture, and mathematics: Supporting the sustainable development goals", a book chapter co-authored with Michael Ostwald (University of New South Wales, Sydney) for the 1st Edition of the Handbook of the Mathematics for Societal Challenges, to be published by Springer in 2026; (2) "The Synthetic City”, a Special Dossier for Mediapolis: A Journal of Cities and Culture, with guest editors S. Rodgers, H. Atteneder, L. Brandner, M. Dias, D. P. Henriques, and S. Trentham-Black, from the ECREA Media, Cities and Space Section, to be published in 2026; (3) Invited member of the Scientific Review Committee for the Education and Research in Computer Aided Architectural Design in Europe (eCAADe), hosted by Technische Hochschule Lübeck, Germany, 7–11 September 2026.
 
 
-**Freelance/Independent Researcher:** Currently, I'm an expert at [UNESCO's Inclusive Policy Lab](https://en.unesco.org/inclusivepolicylab/), communications officer for [ECREA's Media Cities and Space Section](https://www.ecrea.eu), and incoming Co-chair/Member of the Steering Committee of the Implementation Working Group of the [Open Data Charter](https://opendatacharter.org).
+**Freelance/Independent Researcher:** Currently, I'm an expert at [UNESCO's Inclusive Policy Lab](https://en.unesco.org/inclusivepolicylab/), communications officer for [ECREA's Media Cities and Space Section](https://www.ecrea.eu), and Co-chair/Member of the Steering Committee of the Implementation Working Group of the [Open Data Charter](https://opendatacharter.org).
 
 **International experience:** I have been working in several research, teaching, and project management positions in Europe and Asia, for example at: the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR); the [University of the West of England](https://www.uwe.ac.uk) (UK); [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain); [Studio Fuksas - Rome](https://fuksas.com) (Italy); [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands); and the [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
 
 
-**Programming/ software:** Processing, Python, R, Java, C+, CSS, HTML, MatLab; Tableau and Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Rhino, Grasshopper, Unity, Blender, AutoCAD, 3ds Max, SketchUp); Nvivo, Miro, Wordpress, GIS, Midjourney, Canva, and interest in developing further skills in open data, programming, XR, and AI.
+**Programming/ software:** Processing, Python, R, Java, C+, HTML, CSS, MatLab; Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Rhino, Grasshopper, Unity, Blender, AutoCAD, 3ds Max, SketchUp); Nvivo, Miro, Wordpress, GIS, Midjourney, Canva, and interest in developing further skills in open data, programming, XR, and AI.
 
-**Languages:** English, French, Portuguese, Italian, Spanish (Professional proficiency); Dutch, Mandarin, Cantonese, and Japanese (Basic proficiency).
+**Languages:** English (IELTS Academic C1), Portuguese (Native), French, Spanish, Italian (Professional proficiency); Dutch, Mandarin, Cantonese, and Japanese (Basic proficiency).
 
 **Email:** < diogo_ph at proton dot me >
 
