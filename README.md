@@ -69,7 +69,7 @@ This ongoing project examines how the creation and development of neon lighting 
 [...]
 
 
-**Augmenting Photography with Digital Tools, 2019-Ongoing**
+**Augmenting Photography with Digital Tools, 2019-2022**
 
 ![Website_project02](https://user-images.githubusercontent.com/51691883/164502863-18a87a4c-ea1e-470c-89e0-338b7eaa1e1e.jpg)
 
@@ -84,12 +84,12 @@ This ongoing project creatively explores how advances in machine learning and AI
 ![logo_and_subtitle_conference_whitebackground](https://github.com/dph22/dph22.github.io/assets/51691883/3a0a623b-b740-4c4b-b206-f91b154091f1)
 
 
-As YECREA representative, co-organization with Scott Rogers (Birkbeck, University of London), Marcos Dias (Dublin City University), and Lou Therese Brandner (University of Tübingen), of the [The Synthetic City international conference](https://syntheticcity2023.com), hosted by the ECREA Media, Cities and Space Section, at Dublin City University, Ireland, 2023. 
+As YECREA representative, co-organization with Scott Rogers (Birkbeck, University of London), Marcos Dias (Dublin City University), and Lou Therese Brandner (University of Tübingen), of the [The Synthetic City international conference](https://syntheticcity2023.wordpress.com), hosted by the ECREA Media, Cities and Space Section, at Dublin City University, Ireland, 2023. 
 
 [...]
 
 
-**How can AI art enhance diversity and inclusion?**
+**How can AI art enhance diversity and inclusion? 2023**
 
 <img width="658" alt="AITURINGCITY_portfolio00" src="https://github.com/dph22/dph22.github.io/assets/51691883/8b880337-93c1-4318-a879-95b00a842ec6">
 
