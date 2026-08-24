@@ -24,6 +24,9 @@
 
 <img width="790" height="614" alt="Website_SynthteticCities012026" src="https://github.com/user-attachments/assets/dd3063b6-5c0a-4b19-9988-53677a43c596" />
 
+Guest Editors: Scott Rodgers, Helena Atteneder, Lou Therese Brandner, Marcos Dias, Diogo Pereira Henriques and Sara Trentham-Black
+
+This Mediapolis Dossier puts forward ‘the synthetic city’ as an alternative, multivalent provocation to examine, interpret and forecast the emerging implications of AI and related digital technologies for urban living. Our provocation carries a dual meaning, relating to both synthetic and synthesis. With 8 amazing articles by: Jess Reid (The University of Virginia, US), Fran Meissner (University of Twente, NL), Miguel Valdez (Open University, UK), Nanna Verhoeff and Michiel de Lange (Utrecht University, NL), Luke Hespanhol (University of Sydney), Joel McKim (Birkbeck, University of London, UK), Leandry Junior Jieutsa Nkuidje (UNESCO Chair in Urban Landscape, Université de Montréal, CA), Mehdi Ghassemi (Université Catholique de Lille, BE), and David Murakami Wood (Canada Research Chair in Critical Surveillance and Security, University of Ottawa, CA), and Loretta Lees, Carolyn White, Chang Xiao, and Eric Gordon  (Boston University, US). [More news soon]((https://www.mediapolisjournal.com)
 
 [...]
 
@@ -37,10 +40,6 @@
 **Environmental storytelling and planetary thinking in Prague’s video game scene 2023-Ongoing (with Daniel Riha, Charles University of Prague**
 
 <img width="664" alt="Prague_videogames_2025" src="https://github.com/user-attachments/assets/254b4aae-6ebb-4428-b140-9fdf8bd25fe3">
-
-Guest Editors: Scott Rodgers, Helena Atteneder, Lou Therese Brandner, Marcos Dias, Diogo Pereira Henriques and Sara Trentham-Black
-
-This Mediapolis Dossier puts forward ‘the synthetic city’ as an alternative, multivalent provocation to examine, interpret and forecast the emerging implications of AI and related digital technologies for urban living. Our provocation carries a dual meaning, relating to both synthetic and synthesis. With 8 amazing articles by: Jess Reid (The University of Virginia, US), Fran Meissner (University of Twente, NL), Miguel Valdez (Open University, UK), Nanna Verhoeff and Michiel de Lange (Utrecht University, NL), Luke Hespanhol (University of Sydney), Joel McKim (Birkbeck, University of London, UK), Leandry Junior Jieutsa Nkuidje (UNESCO Chair in Urban Landscape, Université de Montréal, CA), Mehdi Ghassemi (Université Catholique de Lille, BE), and David Murakami Wood (Canada Research Chair in Critical Surveillance and Security, University of Ottawa, CA), and Loretta Lees, Carolyn White, Chang Xiao, and Eric Gordon  (Boston University, US). [More news soon]((https://www.mediapolisjournal.com)
 
 
 [...]
