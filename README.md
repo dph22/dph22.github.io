@@ -22,7 +22,7 @@
 
 **The Synthetic City - A Dossier for Mediapolis: A Journal of Cities and Culture**
 
-<img width="790" height="614" alt="Website_SynthteticCities012026" src="https://github.com/user-attachments/assets/dd3063b6-5c0a-4b19-9988-53677a43c596" />
+<img width="664" alt="Website_SynthteticCities012026" src="https://github.com/user-attachments/assets/dd3063b6-5c0a-4b19-9988-53677a43c596" />
 
 Guest Editors: Scott Rodgers, Helena Atteneder, Lou Therese Brandner, Marcos Dias, Diogo Pereira Henriques and Sara Trentham-Black
 
