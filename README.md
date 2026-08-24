@@ -34,6 +34,7 @@ This Mediapolis Dossier puts forward ‘the synthetic city’ as an alternative,
 
 <img width="664" alt="MigrationTourism_2025" src="https://github.com/user-attachments/assets/8fb21df0-9858-4fbc-87ce-f651380ca765">
 
+Within this ongoing project, I delivered a short online presentation titled “Open data (and im)migration: *foreseeing data re-uses and visualisations from NGOs working on social challenges”, at the Implementation Working Group meeting of the Open Data Charter, focusing on immigrant communities and sustainable development, 2025.
 
 [...]
 
