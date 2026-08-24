@@ -26,7 +26,7 @@
 
 Guest Editors: Scott Rodgers, Helena Atteneder, Lou Therese Brandner, Marcos Dias, Diogo Pereira Henriques and Sara Trentham-Black
 
-This Mediapolis Dossier puts forward ‘the synthetic city’ as an alternative, multivalent provocation to examine, interpret and forecast the emerging implications of AI and related digital technologies for urban living. Our provocation carries a dual meaning, relating to both synthetic and synthesis. With 8 amazing articles by: Jess Reid (The University of Virginia, US), Fran Meissner (University of Twente, NL), Miguel Valdez (Open University, UK), Nanna Verhoeff and Michiel de Lange (Utrecht University, NL), Luke Hespanhol (University of Sydney), Joel McKim (Birkbeck, University of London, UK), Leandry Junior Jieutsa Nkuidje (UNESCO Chair in Urban Landscape, Université de Montréal, CA), Mehdi Ghassemi (Université Catholique de Lille, BE), and David Murakami Wood (Canada Research Chair in Critical Surveillance and Security, University of Ottawa, CA), and Loretta Lees, Carolyn White, Chang Xiao, and Eric Gordon  (Boston University, US). [More news soon](https://www.mediapolisjournal.com)
+This Mediapolis Dossier puts forward ‘the synthetic city’ as an alternative, multivalent provocation to examine, interpret and forecast the emerging implications of AI and related digital technologies for urban living. Our provocation carries a dual meaning, relating to both synthetic and synthesis. With 8 amazing articles by: Jess Reid (The University of Virginia, US), Fran Meissner (University of Twente, NL), Miguel Valdez (Open University, UK), Nanna Verhoeff and Michiel de Lange (Utrecht University, NL), Luke Hespanhol (University of Sydney), Joel McKim (Birkbeck, University of London, UK), Leandry Junior Jieutsa Nkuidje (UNESCO Chair in Urban Landscape, Université de Montréal, CA), Mehdi Ghassemi (Université Catholique de Lille, BE), and David Murakami Wood (Canada Research Chair in Critical Surveillance and Security, University of Ottawa, CA), and Loretta Lees, Carolyn White, Chang Xiao, and Eric Gordon  (Boston University, US). [More news soon](https://www.mediapolisjournal.com).
 
 [...]
 
@@ -193,6 +193,8 @@ At the Faculty of Engineering, Northumbria University, I worked as a senior rese
 
 
 ## Key Publications and Conference Presentations
+
+Henriques, D.P. and Ostwald, M. (2026) “Generative AI and architectural design”, in the Sriraman, B. (ed) Handbook of the Mathematics of the Arts and Sciences (new edition). Cham: Springer. [More info](https://link.springer.com/rwe/10.1007/978-3-032-02376-6_20-1)).
 
 Riha, D. and Henriques, D.P. (2025) "Environmental storytelling and planetary thinking in Prague’s video game scene: From storytellers and virtual environments to data sets and chatbots" to be presented at the Video Game Cultures conference 2025, hosted by Charles University in Prague, Czech Republic, 10-12 September 2025.
 
