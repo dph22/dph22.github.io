@@ -1,6 +1,6 @@
 ### Hi, my name is Diogo Pereira Henriques, and I'm a consultant, creative technologist, designer, researcher, educator and learner; between East and West, North and South: born at 337 ppm  and always looking forward to global positive change! 
 
-**LATEST NEWS:** (1) Moving to the greater Barcelona metropolitan area, Catalonia, Spain; (2) Writing "Generative AI, architecture, and mathematics: Supporting the sustainable development goals", a book chapter co-authored with Michael Ostwald (University of New South Wales, Sydney) for the 1st Edition of the Handbook of the Mathematics for Societal Challenges, to be published by Springer Nature in 2026; (3) Editing and reviewing "The Synthetic City”, a Special Dossier for Mediapolis: A Journal of Cities and Culture, with guest editors S. Rodgers, H. Atteneder, L. Brandner, M. Dias, D. P. Henriques, and S. Trentham-Black, from the ECREA Media, Cities and Space Section, to be published in 2026; (3) Invited reviewer for the 28th HCI International Conference, HCII 2026, Montreal, QC, Canada, July 26–31 2026; (5) Invited member of the Scientific Review Committee for the Education and Research in Computer Aided Architectural Design in Europe (eCAADe), hosted by Technische Hochschule Lübeck, Germany, 7–11 September 2026; (6) (5) Invited member of the Ethics Review Committee for the 40th Conference on Neural Information Processing Systems (NeurIPS), to be held in Sydney, Australia, 6-12 December 2026.
+**LATEST NEWS:** (1) Honoured and humbled to be selected to be an Expert Reviewer of the Working Group II: Impacts, Adaptation and Vulnerability, IPCC AR7WG2 Report; (2) Moving to the greater Barcelona metropolitan area, Catalonia, Spain; (2) Writing "Generative AI, architecture, and mathematics: Supporting the sustainable development goals", a book chapter co-authored with Michael Ostwald (University of New South Wales, Sydney) for the 1st Edition of the Handbook of the Mathematics for Societal Challenges, published by Springer Nature in 2026; (3) Editing "The Synthetic City”, a Special Dossier for Mediapolis: A Journal of Cities and Culture, with guest editors S. Rodgers, H. Atteneder, L. Brandner, M. Dias, D. P. Henriques, and S. Trentham-Black, from the ECREA Media, Cities and Space Section, published in 2026; (3) Invited reviewer for the 28th HCI International Conference, HCII 2026, Montreal, QC, Canada, July 26–31 2026; (5) Invited member of the Scientific Review Committee for the Education and Research in Computer Aided Architectural Design in Europe (eCAADe), hosted by Technische Hochschule Lübeck, Germany, 7–11 September 2026; (6) (5) Invited member of the Ethics Review Committee for the 40th Conference on Neural Information Processing Systems (NeurIPS), to be held in Sydney, Australia, 6-12 December 2026.
 
 
 **Freelance/Independent Researcher:** Currently, I'm an expert at [UNESCO's Inclusive Policy Lab](https://en.unesco.org/inclusivepolicylab/), communications officer for [ECREA's Media Cities and Space Section](https://www.ecrea.eu), and Co-chair/Member of the Steering Committee of the Implementation Working Group of the [Open Data Charter](https://opendatacharter.org).
@@ -8,7 +8,7 @@
 **International experience:** I have been working in several research, teaching, and project management positions in Europe and Asia, for example at: the [Faculty of Arts, Aarhus University](https://international.au.dk) (Denmark); the [School of Creative Media, City University of Hong Kong](https://www.scm.cityu.edu.hk) (Hong Kong SAR); the [University of the West of England](https://www.uwe.ac.uk) (UK); [Barcelona Tech - UPC](https://www.upc.edu/en) (Spain); [Studio Fuksas - Rome](https://fuksas.com) (Italy); [Eindhoven University of Technology](https://www.tue.nl/en/) (the Netherlands); and the [University of Lisbon](https://www.ulisboa.pt/en) (Portugal). 
 
 
-**Programming/ software:** Processing, Python, R, Java, C+, HTML, CSS, MatLab; Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Rhino, Grasshopper, Unity, Blender, AutoCAD, 3ds Max, SketchUp); Nvivo, Miro, Wordpress, GIS, Midjourney, Canva, and interest in developing further skills in open data, programming, XR, and AI.
+**Programming/ software:** Processing, Python, R, Java, C+, HTML, CSS, MatLab; Adobe (Photoshop, Illustrator, InDesign, Premiere, XD); 3D modelling (Rhino, Grasshopper, Unity, Blender, AutoCAD, 3ds Max, SketchUp); GIS, Miro; Joomla, WordPress; Canva, Claude, Co-Pilot, ChatMap, etc.
 
 **Languages:** English (IELTS Academic C1), Portuguese (Native), French, Spanish, Italian (Professional proficiency); Dutch, Mandarin, Cantonese, and Japanese (Basic proficiency).
 
@@ -30,11 +30,11 @@ This Mediapolis Dossier puts forward ‘the synthetic city’ as an alternative,
 
 [...]
 
-**Multicultural Cities 01: Lisbon's Migration and Tourism Trends 2023-Ongoing**
+**Multicultural Cities 01: Lisbon's and Barcelona's Migration and Tourism Trends 2023-Ongoing**
 
 <img width="664" alt="MigrationTourism_2025" src="https://github.com/user-attachments/assets/8fb21df0-9858-4fbc-87ce-f651380ca765">
 
-Within this ongoing project, I delivered a short online presentation titled “Open data (and im)migration: *foreseeing data re-uses and visualisations from NGOs working on social challenges”, at the Implementation Working Group meeting of the Open Data Charter, focusing on immigrant communities and sustainable development, 2025.
+Within this ongoing project, I delivered a short online presentation titled “Open data (and im)migration: *foreseeing data re-uses and visualisations from NGOs working on social challenges”, at the Implementation Working Group meeting of the Open Data Charter, focusing on immigrant communities, global tourism, and sustainable development, 2025.
 
 [...]
 
